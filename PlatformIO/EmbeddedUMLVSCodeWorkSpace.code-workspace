@@ -1,8 +1,8 @@
 {
 	"folders": [
 		{
-			"name": "001_PFIO_LightControlMealy",
-			"path": "001_PFIO_LightControlMealy"
+			"name": "001_PFIO_TestHSM",
+			"path": "NUCLEO_H743ZI2/001_PFIO_TestHSM"
 		}
 	],
 	"settings": {
