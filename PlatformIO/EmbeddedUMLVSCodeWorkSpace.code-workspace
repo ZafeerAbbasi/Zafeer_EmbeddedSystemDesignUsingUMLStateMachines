@@ -1,8 +1,7 @@
 {
 	"folders": [
 		{
-			"name": "001_PFIO_TestHSM",
-			"path": "NUCLEO_H743ZI2/001_PFIO_TestHSM"
+			"path": "NUCLEO_H743ZI2/002_PFIO_LearningQP"
 		}
 	],
 	"settings": {
