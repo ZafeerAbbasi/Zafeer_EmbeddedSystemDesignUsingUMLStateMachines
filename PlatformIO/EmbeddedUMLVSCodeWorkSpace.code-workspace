@@ -48,7 +48,9 @@
 			"rtc.h": "c",
 			"stm32f4xx_it.h": "c",
 			"freertosconfig.h": "c",
-			"semphr.h": "c"
+			"semphr.h": "c",
+			"eth.h": "c",
+			"qpc.h": "c"
 		},
 		"git.ignoreLimitWarning": true
 	}

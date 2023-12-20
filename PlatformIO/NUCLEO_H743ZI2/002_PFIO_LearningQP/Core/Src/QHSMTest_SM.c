@@ -30,6 +30,7 @@
 //$endhead${../Core/Src::QHSMTest_SM.c} ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 #include "qpc.h"
 #include "QHSMTest_SM.h"
+#include "bsp.h"
 //$declare${HSMs::QHsmTst} vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
 //${HSMs::QHsmTst} ...........................................................
@@ -61,6 +62,11 @@ static QState QHsmTst_s211(QHsmTst * const me, QEvt const * const e);
 #endif
 //$endskip${QP_VERSION} ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+//$define${HSMs::super_QHsmTst} vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+//${HSMs::super_QHsmTst} .....................................................
+QHsmTst *const super_QHsmTst = &QHsmTst_inst.super;
+//$enddef${HSMs::super_QHsmTst} ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 //$define${HSMs::QHsmTst} vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 
 //${HSMs::QHsmTst} ...........................................................
@@ -138,7 +144,7 @@ static QState QHsmTst_s(QHsmTst * const me, QEvt const * const e) {
         }
         //${HSMs::QHsmTst::SM::s::TERMINATE}
         case TERMINATE_SIG: {
-            BSP_terminate(0);
+            BSP_terminate( );
             status_ = Q_HANDLED();
             break;
         }

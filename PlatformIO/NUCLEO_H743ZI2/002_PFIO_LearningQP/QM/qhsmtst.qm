@@ -70,7 +70,7 @@ BSP_display(&quot;s-I;&quot;);</action>
      </tran>
      <!--${HSMs::QHsmTst::SM::s::TERMINATE}-->
      <tran trig="TERMINATE">
-      <action>BSP_terminate(0);</action>
+      <action>BSP_terminate( );</action>
       <tran_glyph conn="71,19,1,-1,4,17">
        <action box="0,-2,9,2"/>
       </tran_glyph>
@@ -292,14 +292,20 @@ BSP_display(&quot;s2-I;&quot;);</action>
     <state_diagram size="79,41"/>
    </statechart>
   </class>
+  <!--${HSMs::super_QHsmTst}-->
+  <attribute name="super_QHsmTst" type="QHsmTst *const" visibility="0x00" properties="0x00">
+   <code>= &amp;QHsmTst_inst.super;</code>
+  </attribute>
  </package>
  <!--${../Core/Src}-->
  <directory name="../Core/Src">
   <!--${../Core/Src::QHSMTest_SM.c}-->
   <file name="QHSMTest_SM.c">
    <text>#include &quot;qpc.h&quot;
-#include &quot;QHSMTest_SM.h&quot;
+#include &quot;QHSMTest_SM.h&quot; v 
+#include &quot;bsp.h&quot;
 $declare${HSMs::QHsmTst}
+$define${HSMs::super_QHsmTst}
 $define${HSMs::QHsmTst}</text>
   </file>
  </directory>
@@ -325,6 +331,8 @@ enum QHSM_Test_Signals
     IGNORE_SIG,
     MAX_SIG
 };
+
+$declare${HSMs::super_QHsmTst}
 
 #endif</text>
   </file>

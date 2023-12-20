@@ -47,4 +47,10 @@ enum QHSM_Test_Signals
     MAX_SIG
 };
 
+//$declare${HSMs::super_QHsmTst} vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
+//${HSMs::super_QHsmTst} .....................................................
+extern QHsmTst *const super_QHsmTst;
+//$enddecl${HSMs::super_QHsmTst} ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 #endif
