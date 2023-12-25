@@ -1,7 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "NUCLEO_H743ZI2/002_PFIO_LearningQP"
+			"path": "NUCLEO_H743ZI2/003_QHSM_ClockAlarmNUCLEOH743ZI2"
 		}
 	],
 	"settings": {
@@ -50,7 +50,8 @@
 			"freertosconfig.h": "c",
 			"semphr.h": "c",
 			"eth.h": "c",
-			"qpc.h": "c"
+			"qpc.h": "c",
+			"qsafe.h": "c"
 		},
 		"git.ignoreLimitWarning": true
 	}

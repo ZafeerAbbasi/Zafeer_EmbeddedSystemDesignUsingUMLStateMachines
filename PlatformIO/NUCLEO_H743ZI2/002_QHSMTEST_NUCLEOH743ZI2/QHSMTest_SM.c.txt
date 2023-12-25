@@ -1,0 +1,10 @@
+QHSMTest_SM.c
+- State handler function declarations
+- State Handler Function Definitions
+- Private Variables and Functions Definitions
+
+
+QHSMTest_SM.h
+- Keep here something you want to share with other files
+- Event Definitions ( Enum of Events )
+- Function Declarations of Exposed Functions

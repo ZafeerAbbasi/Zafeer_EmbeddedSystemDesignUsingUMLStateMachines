@@ -1,0 +1,3030 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o)
+                              dbg/stm32h7xx_hal_uart.o (__aeabi_uldivmod)
+c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_udivmoddi4.o)
+                              c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_dvmd_tls.o)
+                              c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+                              c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o (exit)
+c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+                              c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+                              c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o (__libc_init_array)
+c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+                              dbg/queue.o (memcpy)
+c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memset.o)
+                              c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o (memset)
+c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a(_exit.o)
+                              c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crti.o
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crti.o
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crti.o
+ .data          0x00000000        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+ .rodata        0x00000000       0x24 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+ .text          0x00000000       0x7c c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+ .text          0x00000000        0x0 dbg/bsp.o
+ .data          0x00000000        0x0 dbg/bsp.o
+ .bss           0x00000000        0x0 dbg/bsp.o
+ .text.BSP_randomSeed
+                0x00000000        0xc dbg/bsp.o
+ .text.BSP_ledOn
+                0x00000000        0xa dbg/bsp.o
+ .text.BSP_ledOff
+                0x00000000        0xa dbg/bsp.o
+ .text.BSP_terminate
+                0x00000000        0x2 dbg/bsp.o
+ .text.QF_onCleanup
+                0x00000000        0x2 dbg/bsp.o
+ .text          0x00000000        0x0 dbg/main.o
+ .data          0x00000000        0x0 dbg/main.o
+ .bss           0x00000000        0x0 dbg/main.o
+ .text          0x00000000        0x0 dbg/philo.o
+ .data          0x00000000        0x0 dbg/philo.o
+ .bss           0x00000000        0x0 dbg/philo.o
+ .text          0x00000000        0x0 dbg/table.o
+ .data          0x00000000        0x0 dbg/table.o
+ .bss           0x00000000        0x0 dbg/table.o
+ .text          0x00000000        0x0 dbg/startup_stm32h743xx.o
+ .data          0x00000000        0x0 dbg/startup_stm32h743xx.o
+ .bss           0x00000000        0x0 dbg/startup_stm32h743xx.o
+ .text          0x00000000        0x0 dbg/system_stm32h7xx.o
+ .data          0x00000000        0x0 dbg/system_stm32h7xx.o
+ .bss           0x00000000        0x0 dbg/system_stm32h7xx.o
+ .text          0x00000000        0x0 dbg/stm32h7xx_nucleo_144.o
+ .data          0x00000000        0x0 dbg/stm32h7xx_nucleo_144.o
+ .bss           0x00000000        0x0 dbg/stm32h7xx_nucleo_144.o
+ .text.BSP_GetVersion
+                0x00000000        0x6 dbg/stm32h7xx_nucleo_144.o
+ .text.BSP_LED_DeInit
+                0x00000000       0x2c dbg/stm32h7xx_nucleo_144.o
+ .text.BSP_LED_Toggle
+                0x00000000       0x1c dbg/stm32h7xx_nucleo_144.o
+ .text.BSP_PB_DeInit
+                0x00000000       0x20 dbg/stm32h7xx_nucleo_144.o
+ .rodata.BUTTON_IRQn
+                0x00000000        0x1 dbg/stm32h7xx_nucleo_144.o
+ .rodata.BUTTON_PIN
+                0x00000000        0x2 dbg/stm32h7xx_nucleo_144.o
+ .text          0x00000000        0x0 dbg/stm32h7xx_hal.o
+ .data          0x00000000        0x0 dbg/stm32h7xx_hal.o
+ .bss           0x00000000        0x0 dbg/stm32h7xx_hal.o
+ .text.HAL_MspInit
+                0x00000000        0x2 dbg/stm32h7xx_hal.o
+ .text.HAL_MspDeInit
+                0x00000000        0x2 dbg/stm32h7xx_hal.o
+ .text.HAL_DeInit
+                0x00000000       0x84 dbg/stm32h7xx_hal.o
+ .text.HAL_InitTick
+                0x00000000       0x4c dbg/stm32h7xx_hal.o
+ .text.HAL_Init
+                0x00000000       0x5c dbg/stm32h7xx_hal.o
+ .text.HAL_IncTick
+                0x00000000       0x18 dbg/stm32h7xx_hal.o
+ .text.HAL_GetTick
+                0x00000000        0xc dbg/stm32h7xx_hal.o
+ .text.HAL_GetTickPrio
+                0x00000000        0xc dbg/stm32h7xx_hal.o
+ .text.HAL_SetTickFreq
+                0x00000000       0x2c dbg/stm32h7xx_hal.o
+ .text.HAL_GetTickFreq
+                0x00000000        0xc dbg/stm32h7xx_hal.o
+ .text.HAL_Delay
+                0x00000000       0x28 dbg/stm32h7xx_hal.o
+ .text.HAL_SuspendTick
+                0x00000000        0xe dbg/stm32h7xx_hal.o
+ .text.HAL_ResumeTick
+                0x00000000        0xe dbg/stm32h7xx_hal.o
+ .text.HAL_GetHalVersion
+                0x00000000        0x8 dbg/stm32h7xx_hal.o
+ .text.HAL_GetREVID
+                0x00000000        0xc dbg/stm32h7xx_hal.o
+ .text.HAL_GetDEVID
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_GetUIDw0
+                0x00000000        0xc dbg/stm32h7xx_hal.o
+ .text.HAL_GetUIDw1
+                0x00000000        0xc dbg/stm32h7xx_hal.o
+ .text.HAL_GetUIDw2
+                0x00000000        0xc dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_VREFBUF_VoltageScalingConfig
+                0x00000000       0x14 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_VREFBUF_HighImpedanceConfig
+                0x00000000       0x14 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_VREFBUF_TrimmingConfig
+                0x00000000       0x14 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_EnableVREFBUF
+                0x00000000       0x34 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_DisableVREFBUF
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_ETHInterfaceSelect
+                0x00000000       0x14 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_AnalogSwitchConfig
+                0x00000000       0x14 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_EnableBOOST
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_DisableBOOST
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_CM7BootAddConfig
+                0x00000000       0x34 dbg/stm32h7xx_hal.o
+ .text.HAL_EnableCompensationCell
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_DisableCompensationCell
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_EnableIOSpeedOptimize
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_DisableIOSpeedOptimize
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_CompensationCodeSelect
+                0x00000000       0x14 dbg/stm32h7xx_hal.o
+ .text.HAL_SYSCFG_CompensationCodeConfig
+                0x00000000       0x18 dbg/stm32h7xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_SetFMCMemorySwappingConfig
+                0x00000000       0x14 dbg/stm32h7xx_hal.o
+ .text.HAL_GetFMCMemorySwappingConfig
+                0x00000000       0x10 dbg/stm32h7xx_hal.o
+ .text.HAL_EXTI_EdgeConfig
+                0x00000000       0x44 dbg/stm32h7xx_hal.o
+ .text.HAL_EXTI_GenerateSWInterrupt
+                0x00000000       0x24 dbg/stm32h7xx_hal.o
+ .text.HAL_EXTI_D1_ClearFlag
+                0x00000000       0x18 dbg/stm32h7xx_hal.o
+ .text.HAL_EXTI_D1_EventInputConfig
+                0x00000000       0x94 dbg/stm32h7xx_hal.o
+ .text.HAL_EXTI_D3_EventInputConfig
+                0x00000000       0x74 dbg/stm32h7xx_hal.o
+ .bss.uwTick    0x00000000        0x4 dbg/stm32h7xx_hal.o
+ .data.uwTickFreq
+                0x00000000        0x1 dbg/stm32h7xx_hal.o
+ .data.uwTickPrio
+                0x00000000        0x4 dbg/stm32h7xx_hal.o
+ .debug_info    0x00000000     0x169a dbg/stm32h7xx_hal.o
+ .debug_abbrev  0x00000000      0x264 dbg/stm32h7xx_hal.o
+ .debug_loc     0x00000000      0x3df dbg/stm32h7xx_hal.o
+ .debug_aranges
+                0x00000000      0x198 dbg/stm32h7xx_hal.o
+ .debug_ranges  0x00000000      0x188 dbg/stm32h7xx_hal.o
+ .debug_line    0x00000000      0x917 dbg/stm32h7xx_hal.o
+ .debug_str     0x00000000     0x14c1 dbg/stm32h7xx_hal.o
+ .comment       0x00000000       0x4a dbg/stm32h7xx_hal.o
+ .debug_frame   0x00000000      0x37c dbg/stm32h7xx_hal.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/stm32h7xx_hal.o
+ .text          0x00000000        0x0 dbg/stm32h7xx_hal_cortex.o
+ .data          0x00000000        0x0 dbg/stm32h7xx_hal_cortex.o
+ .bss           0x00000000        0x0 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x00000000       0x24 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x28 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_NVIC_SystemReset
+                0x00000000       0x24 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_SYSTICK_Config
+                0x00000000       0x28 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_MPU_Disable
+                0x00000000       0x1c dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_MPU_Enable
+                0x00000000       0x20 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x60 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000       0x10 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x5c dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x20 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x20 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x24 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x16 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x2 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0x8 dbg/stm32h7xx_hal_cortex.o
+ .text.HAL_GetCurrentCPUID
+                0x00000000        0x4 dbg/stm32h7xx_hal_cortex.o
+ .text          0x00000000        0x0 dbg/stm32h7xx_hal_gpio.o
+ .data          0x00000000        0x0 dbg/stm32h7xx_hal_gpio.o
+ .bss           0x00000000        0x0 dbg/stm32h7xx_hal_gpio.o
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x16c dbg/stm32h7xx_hal_gpio.o
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x12 dbg/stm32h7xx_hal_gpio.o
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x2a dbg/stm32h7xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000        0x2 dbg/stm32h7xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x1e dbg/stm32h7xx_hal_gpio.o
+ .text          0x00000000        0x0 dbg/stm32h7xx_hal_pwr_ex.o
+ .data          0x00000000        0x0 dbg/stm32h7xx_hal_pwr_ex.o
+ .bss           0x00000000        0x0 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_ConfigSupply
+                0x00000000       0x50 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetSupplyConfig
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x00000000       0xd4 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetVoltageRange
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_ControlStopModeVoltageScaling
+                0x00000000       0x14 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetStopModeVoltageRange
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnterSTOPMode
+                0x00000000       0x60 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_ClearPendingEvent
+                0x00000000        0x4 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnterSTANDBYMode
+                0x00000000       0x38 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_ConfigD3Domain
+                0x00000000       0x14 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableWakeUpPin
+                0x00000000       0x8c dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableWakeUpPin
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetWakeupFlag
+                0x00000000        0xc dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_ClearWakeupFlag
+                0x00000000       0x18 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP1_Callback
+                0x00000000        0x2 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP2_Callback
+                0x00000000        0x2 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP3_Callback
+                0x00000000        0x2 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP4_Callback
+                0x00000000        0x2 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP5_Callback
+                0x00000000        0x2 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_WKUP6_Callback
+                0x00000000        0x2 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_WAKEUP_PIN_IRQHandler
+                0x00000000       0x98 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableBkUpReg
+                0x00000000       0x34 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableBkUpReg
+                0x00000000       0x34 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableUSBReg
+                0x00000000       0x34 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableUSBReg
+                0x00000000       0x34 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableUSBVoltageDetector
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableUSBVoltageDetector
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableBatteryCharging
+                0x00000000       0x1c dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableBatteryCharging
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableMonitoring
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableMonitoring
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetTemperatureLevel
+                0x00000000       0x1c dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_GetVBATLevel
+                0x00000000       0x1c dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_ConfigAVD
+                0x00000000       0x98 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_EnableAVD
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_DisableAVD
+                0x00000000       0x10 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_AVDCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_pwr_ex.o
+ .text.HAL_PWREx_PVD_AVD_IRQHandler
+                0x00000000       0x64 dbg/stm32h7xx_hal_pwr_ex.o
+ .debug_info    0x00000000     0x1241 dbg/stm32h7xx_hal_pwr_ex.o
+ .debug_abbrev  0x00000000      0x298 dbg/stm32h7xx_hal_pwr_ex.o
+ .debug_loc     0x00000000      0x42b dbg/stm32h7xx_hal_pwr_ex.o
+ .debug_aranges
+                0x00000000      0x158 dbg/stm32h7xx_hal_pwr_ex.o
+ .debug_ranges  0x00000000      0x148 dbg/stm32h7xx_hal_pwr_ex.o
+ .debug_line    0x00000000      0xa96 dbg/stm32h7xx_hal_pwr_ex.o
+ .debug_str     0x00000000      0xa61 dbg/stm32h7xx_hal_pwr_ex.o
+ .comment       0x00000000       0x4a dbg/stm32h7xx_hal_pwr_ex.o
+ .debug_frame   0x00000000      0x304 dbg/stm32h7xx_hal_pwr_ex.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/stm32h7xx_hal_pwr_ex.o
+ .text          0x00000000        0x0 dbg/stm32h7xx_hal_rcc.o
+ .data          0x00000000        0x0 dbg/stm32h7xx_hal_rcc.o
+ .bss           0x00000000        0x0 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_DeInit
+                0x00000000      0x1cc dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_OscConfig
+                0x00000000      0x670 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0xa4 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x10 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x10 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_GetSysClockFreq
+                0x00000000      0x1f0 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_ClockConfig
+                0x00000000      0x2b0 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000       0x44 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x24 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x24 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x114 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x54 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_rcc.o
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x20 dbg/stm32h7xx_hal_rcc.o
+ .debug_info    0x00000000     0x121e dbg/stm32h7xx_hal_rcc.o
+ .debug_abbrev  0x00000000      0x27f dbg/stm32h7xx_hal_rcc.o
+ .debug_loc     0x00000000      0x8b3 dbg/stm32h7xx_hal_rcc.o
+ .debug_aranges
+                0x00000000       0x88 dbg/stm32h7xx_hal_rcc.o
+ .debug_ranges  0x00000000       0xe8 dbg/stm32h7xx_hal_rcc.o
+ .debug_line    0x00000000     0x121d dbg/stm32h7xx_hal_rcc.o
+ .debug_str     0x00000000      0xa2b dbg/stm32h7xx_hal_rcc.o
+ .comment       0x00000000       0x4a dbg/stm32h7xx_hal_rcc.o
+ .debug_frame   0x00000000      0x1a8 dbg/stm32h7xx_hal_rcc.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/stm32h7xx_hal_rcc.o
+ .text          0x00000000        0x0 dbg/stm32h7xx_hal_rcc_ex.o
+ .data          0x00000000        0x0 dbg/stm32h7xx_hal_rcc_ex.o
+ .bss           0x00000000        0x0 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.RCCEx_PLL2_Config
+                0x00000000      0x104 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.RCCEx_PLL3_Config
+                0x00000000      0x104 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x00000000      0x9cc dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x00000000      0x194 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetD1PCLK1Freq
+                0x00000000       0x24 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetD3PCLK1Freq
+                0x00000000       0x24 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPLL2ClockFreq
+                0x00000000      0x1f8 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPLL3ClockFreq
+                0x00000000      0x1f8 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPLL1ClockFreq
+                0x00000000      0x1f8 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x00000000      0x5f4 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_GetD1SysClockFreq
+                0x00000000       0x44 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_EnableLSECSS
+                0x00000000       0x10 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_DisableLSECSS
+                0x00000000       0x18 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_EnableLSECSS_IT
+                0x00000000       0x30 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_WakeUpStopCLKConfig
+                0x00000000       0x14 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_KerWakeUpStopCLKConfig
+                0x00000000       0x14 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_WWDGxSysResetConfig
+                0x00000000       0x14 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRSConfig
+                0x00000000       0x74 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRSSoftwareSynchronizationGenerate
+                0x00000000       0x10 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRSGetSynchronizationInfo
+                0x00000000       0x24 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRSWaitSynchronization
+                0x00000000       0xa0 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_SyncOkCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_SyncWarnCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_ExpectedSyncCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_ErrorCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_CRS_IRQHandler
+                0x00000000       0x88 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_LSECSS_Callback
+                0x00000000        0x2 dbg/stm32h7xx_hal_rcc_ex.o
+ .text.HAL_RCCEx_LSECSS_IRQHandler
+                0x00000000       0x20 dbg/stm32h7xx_hal_rcc_ex.o
+ .debug_info    0x00000000     0x19de dbg/stm32h7xx_hal_rcc_ex.o
+ .debug_abbrev  0x00000000      0x278 dbg/stm32h7xx_hal_rcc_ex.o
+ .debug_loc     0x00000000     0x198c dbg/stm32h7xx_hal_rcc_ex.o
+ .debug_aranges
+                0x00000000       0xf8 dbg/stm32h7xx_hal_rcc_ex.o
+ .debug_ranges  0x00000000       0xe8 dbg/stm32h7xx_hal_rcc_ex.o
+ .debug_line    0x00000000     0x1c70 dbg/stm32h7xx_hal_rcc_ex.o
+ .debug_str     0x00000000      0xf0d dbg/stm32h7xx_hal_rcc_ex.o
+ .comment       0x00000000       0x4a dbg/stm32h7xx_hal_rcc_ex.o
+ .debug_frame   0x00000000      0x290 dbg/stm32h7xx_hal_rcc_ex.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/stm32h7xx_hal_rcc_ex.o
+ .text          0x00000000        0x0 dbg/stm32h7xx_hal_msp.o
+ .data          0x00000000        0x0 dbg/stm32h7xx_hal_msp.o
+ .bss           0x00000000        0x0 dbg/stm32h7xx_hal_msp.o
+ .text.HAL_InitTick
+                0x00000000        0x4 dbg/stm32h7xx_hal_msp.o
+ .text.HAL_UART_MspInit
+                0x00000000       0x8c dbg/stm32h7xx_hal_msp.o
+ .text.HAL_UART_MspDeInit
+                0x00000000       0x3c dbg/stm32h7xx_hal_msp.o
+ .text.HAL_UARTEx_RxFifoFullCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_msp.o
+ .text.HAL_UARTEx_TxFifoEmptyCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_msp.o
+ .text.HAL_UARTEx_WakeupCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_msp.o
+ .text.HAL_UART_RxCpltCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_msp.o
+ .debug_info    0x00000000      0xe6c dbg/stm32h7xx_hal_msp.o
+ .debug_abbrev  0x00000000      0x1fc dbg/stm32h7xx_hal_msp.o
+ .debug_loc     0x00000000       0x6f dbg/stm32h7xx_hal_msp.o
+ .debug_aranges
+                0x00000000       0x50 dbg/stm32h7xx_hal_msp.o
+ .debug_ranges  0x00000000       0x40 dbg/stm32h7xx_hal_msp.o
+ .debug_line    0x00000000      0x2d4 dbg/stm32h7xx_hal_msp.o
+ .debug_str     0x00000000      0xab5 dbg/stm32h7xx_hal_msp.o
+ .comment       0x00000000       0x4a dbg/stm32h7xx_hal_msp.o
+ .debug_frame   0x00000000       0x98 dbg/stm32h7xx_hal_msp.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/stm32h7xx_hal_msp.o
+ .text          0x00000000        0x0 dbg/stm32h7xx_hal_uart.o
+ .data          0x00000000        0x0 dbg/stm32h7xx_hal_uart.o
+ .bss           0x00000000        0x0 dbg/stm32h7xx_hal_uart.o
+ .text.UART_EndTxTransfer
+                0x00000000       0x32 dbg/stm32h7xx_hal_uart.o
+ .text.UART_EndRxTransfer
+                0x00000000       0x5c dbg/stm32h7xx_hal_uart.o
+ .text.UART_TxISR_8BIT
+                0x00000000       0x54 dbg/stm32h7xx_hal_uart.o
+ .text.UART_TxISR_16BIT
+                0x00000000       0x58 dbg/stm32h7xx_hal_uart.o
+ .text.UART_TxISR_8BIT_FIFOEN
+                0x00000000       0x74 dbg/stm32h7xx_hal_uart.o
+ .text.UART_TxISR_16BIT_FIFOEN
+                0x00000000       0x78 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_MspInit
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_MspDeInit
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_DeInit
+                0x00000000       0x42 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_Transmit_IT
+                0x00000000       0xcc dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_Transmit_DMA
+                0x00000000       0xb8 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_DMAPause
+                0x00000000       0xa4 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_DMAResume
+                0x00000000       0x94 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_DMAStop
+                0x00000000       0xaa dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_Abort
+                0x00000000      0x11c dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_AbortTransmit
+                0x00000000       0x98 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_AbortReceive
+                0x00000000       0xb4 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_TxCpltCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMATransmitCplt
+                0x00000000       0x46 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_TxHalfCpltCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMATxHalfCplt
+                0x00000000        0xa dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_RxCpltCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_RxHalfCpltCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_ErrorCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMAError
+                0x00000000       0x58 dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMAAbortOnError
+                0x00000000       0x14 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_AbortCpltCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_Abort_IT
+                0x00000000      0x148 dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMARxAbortCallback
+                0x00000000       0x42 dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMATxAbortCallback
+                0x00000000       0x4e dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_AbortTransmitCpltCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_AbortTransmit_IT
+                0x00000000       0xac dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMATxOnlyAbortCallback
+                0x00000000       0x2a dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_AbortReceiveCpltCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_AbortReceive_IT
+                0x00000000       0xd0 dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMARxOnlyAbortCallback
+                0x00000000       0x28 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UARTEx_RxEventCallback
+                0x00000000        0x2 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_IRQHandler
+                0x00000000      0x408 dbg/stm32h7xx_hal_uart.o
+ .text.UART_RxISR_8BIT
+                0x00000000       0xae dbg/stm32h7xx_hal_uart.o
+ .text.UART_RxISR_16BIT
+                0x00000000       0xae dbg/stm32h7xx_hal_uart.o
+ .text.UART_RxISR_8BIT_FIFOEN
+                0x00000000      0x1b4 dbg/stm32h7xx_hal_uart.o
+ .text.UART_RxISR_16BIT_FIFOEN
+                0x00000000      0x1b4 dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMARxHalfCplt
+                0x00000000       0x1c dbg/stm32h7xx_hal_uart.o
+ .text.UART_DMAReceiveCplt
+                0x00000000       0x8c dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_ReceiverTimeout_Config
+                0x00000000       0x18 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_EnableReceiverTimeout
+                0x00000000       0x4c dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_DisableReceiverTimeout
+                0x00000000       0x4c dbg/stm32h7xx_hal_uart.o
+ .text.HAL_MultiProcessor_EnterMuteMode
+                0x00000000        0xc dbg/stm32h7xx_hal_uart.o
+ .text.HAL_HalfDuplex_EnableTransmitter
+                0x00000000       0x4c dbg/stm32h7xx_hal_uart.o
+ .text.HAL_HalfDuplex_EnableReceiver
+                0x00000000       0x4c dbg/stm32h7xx_hal_uart.o
+ .text.HAL_LIN_SendBreak
+                0x00000000       0x32 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_GetState
+                0x00000000        0xc dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_GetError
+                0x00000000        0x6 dbg/stm32h7xx_hal_uart.o
+ .text.UART_SetConfig
+                0x00000000      0x630 dbg/stm32h7xx_hal_uart.o
+ .text.UART_AdvFeatureConfig
+                0x00000000       0xca dbg/stm32h7xx_hal_uart.o
+ .text.UART_WaitOnFlagUntilTimeout
+                0x00000000       0xe2 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_Transmit
+                0x00000000       0xe8 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_Receive
+                0x00000000      0x128 dbg/stm32h7xx_hal_uart.o
+ .text.UART_CheckIdleState
+                0x00000000       0x74 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_Init
+                0x00000000       0x66 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_HalfDuplex_Init
+                0x00000000       0x72 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_LIN_Init
+                0x00000000       0x96 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_MultiProcessor_Init
+                0x00000000       0x8e dbg/stm32h7xx_hal_uart.o
+ .text.HAL_MultiProcessor_EnableMuteMode
+                0x00000000       0x38 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_MultiProcessor_DisableMuteMode
+                0x00000000       0x38 dbg/stm32h7xx_hal_uart.o
+ .text.UART_Start_Receive_IT
+                0x00000000      0x168 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_Receive_IT
+                0x00000000       0x58 dbg/stm32h7xx_hal_uart.o
+ .text.UART_Start_Receive_DMA
+                0x00000000       0xb4 dbg/stm32h7xx_hal_uart.o
+ .text.HAL_UART_Receive_DMA
+                0x00000000       0x58 dbg/stm32h7xx_hal_uart.o
+ .rodata.UARTPrescTable
+                0x00000000       0x18 dbg/stm32h7xx_hal_uart.o
+ .debug_info    0x00000000     0x650d dbg/stm32h7xx_hal_uart.o
+ .debug_abbrev  0x00000000      0x395 dbg/stm32h7xx_hal_uart.o
+ .debug_loc     0x00000000     0x5e43 dbg/stm32h7xx_hal_uart.o
+ .debug_aranges
+                0x00000000      0x240 dbg/stm32h7xx_hal_uart.o
+ .debug_ranges  0x00000000      0x308 dbg/stm32h7xx_hal_uart.o
+ .debug_line    0x00000000     0x63e3 dbg/stm32h7xx_hal_uart.o
+ .debug_str     0x00000000     0x149c dbg/stm32h7xx_hal_uart.o
+ .comment       0x00000000       0x4a dbg/stm32h7xx_hal_uart.o
+ .debug_frame   0x00000000      0x68c dbg/stm32h7xx_hal_uart.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/stm32h7xx_hal_uart.o
+ .text          0x00000000        0x0 dbg/qep_hsm.o
+ .data          0x00000000        0x0 dbg/qep_hsm.o
+ .bss           0x00000000        0x0 dbg/qep_hsm.o
+ .text.QHsm_isIn
+                0x00000000       0x4c dbg/qep_hsm.o
+ .text.QHsm_childState
+                0x00000000       0x54 dbg/qep_hsm.o
+ .rodata.QP_versionStr
+                0x00000000        0x8 dbg/qep_hsm.o
+ .text          0x00000000        0x0 dbg/qep_msm.o
+ .data          0x00000000        0x0 dbg/qep_msm.o
+ .bss           0x00000000        0x0 dbg/qep_msm.o
+ .text.QMsm_ctor
+                0x00000000       0x14 dbg/qep_msm.o
+ .text.QMsm_isInState
+                0x00000000       0x20 dbg/qep_msm.o
+ .text.QMsm_childStateObj
+                0x00000000       0x50 dbg/qep_msm.o
+ .text.QMsm_execTatbl_
+                0x00000000       0x44 dbg/qep_msm.o
+ .text.QMsm_init_
+                0x00000000       0x6c dbg/qep_msm.o
+ .text.QMsm_exitToTranSource_
+                0x00000000       0x3c dbg/qep_msm.o
+ .text.QMsm_enterHistory_
+                0x00000000       0x80 dbg/qep_msm.o
+ .text.QMsm_dispatch_
+                0x00000000      0x168 dbg/qep_msm.o
+ .rodata.Q_this_module_
+                0x00000000        0x8 dbg/qep_msm.o
+ .rodata.l_msm_top_s
+                0x00000000       0x14 dbg/qep_msm.o
+ .rodata.vtable.0
+                0x00000000        0x8 dbg/qep_msm.o
+ .debug_info    0x00000000      0xcfd dbg/qep_msm.o
+ .debug_abbrev  0x00000000      0x386 dbg/qep_msm.o
+ .debug_loc     0x00000000      0x76e dbg/qep_msm.o
+ .debug_aranges
+                0x00000000       0x58 dbg/qep_msm.o
+ .debug_ranges  0x00000000       0x88 dbg/qep_msm.o
+ .debug_line    0x00000000      0x6f8 dbg/qep_msm.o
+ .debug_str     0x00000000      0x4df dbg/qep_msm.o
+ .comment       0x00000000       0x4a dbg/qep_msm.o
+ .debug_frame   0x00000000       0xec dbg/qep_msm.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/qep_msm.o
+ .text          0x00000000        0x0 dbg/qf_act.o
+ .data          0x00000000        0x0 dbg/qf_act.o
+ .bss           0x00000000        0x0 dbg/qf_act.o
+ .text          0x00000000        0x0 dbg/qf_defer.o
+ .data          0x00000000        0x0 dbg/qf_defer.o
+ .bss           0x00000000        0x0 dbg/qf_defer.o
+ .text.QActive_defer
+                0x00000000       0x12 dbg/qf_defer.o
+ .text.QActive_recall
+                0x00000000       0x4c dbg/qf_defer.o
+ .text.QActive_flushDeferred
+                0x00000000       0x28 dbg/qf_defer.o
+ .rodata.Q_this_module_
+                0x00000000        0x9 dbg/qf_defer.o
+ .debug_info    0x00000000      0xb24 dbg/qf_defer.o
+ .debug_abbrev  0x00000000      0x296 dbg/qf_defer.o
+ .debug_loc     0x00000000      0x288 dbg/qf_defer.o
+ .debug_aranges
+                0x00000000       0x30 dbg/qf_defer.o
+ .debug_ranges  0x00000000       0x20 dbg/qf_defer.o
+ .debug_line    0x00000000      0x2f7 dbg/qf_defer.o
+ .debug_str     0x00000000      0x667 dbg/qf_defer.o
+ .comment       0x00000000       0x4a dbg/qf_defer.o
+ .debug_frame   0x00000000       0x64 dbg/qf_defer.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/qf_defer.o
+ .text          0x00000000        0x0 dbg/qf_dyn.o
+ .data          0x00000000        0x0 dbg/qf_dyn.o
+ .bss           0x00000000        0x0 dbg/qf_dyn.o
+ .text.QF_poolGetMaxBlockSize
+                0x00000000       0x18 dbg/qf_dyn.o
+ .text.QF_getPoolMin
+                0x00000000       0x3c dbg/qf_dyn.o
+ .text.QF_newRef_
+                0x00000000       0x48 dbg/qf_dyn.o
+ .text.QF_deleteRef_
+                0x00000000       0x30 dbg/qf_dyn.o
+ .text          0x00000000        0x0 dbg/qf_mem.o
+ .data          0x00000000        0x0 dbg/qf_mem.o
+ .bss           0x00000000        0x0 dbg/qf_mem.o
+ .text          0x00000000        0x0 dbg/qf_ps.o
+ .data          0x00000000        0x0 dbg/qf_ps.o
+ .bss           0x00000000        0x0 dbg/qf_ps.o
+ .text.QActive_unsubscribe
+                0x00000000       0x88 dbg/qf_ps.o
+ .text.QActive_unsubscribeAll
+                0x00000000       0x84 dbg/qf_ps.o
+ .text          0x00000000        0x0 dbg/qf_qact.o
+ .data          0x00000000        0x0 dbg/qf_qact.o
+ .bss           0x00000000        0x0 dbg/qf_qact.o
+ .text.QActive_unregister_
+                0x00000000       0x3c dbg/qf_qact.o
+ .text          0x00000000        0x0 dbg/qf_qeq.o
+ .data          0x00000000        0x0 dbg/qf_qeq.o
+ .bss           0x00000000        0x0 dbg/qf_qeq.o
+ .text.QEQueue_init
+                0x00000000       0x1e dbg/qf_qeq.o
+ .text.QEQueue_post
+                0x00000000       0x98 dbg/qf_qeq.o
+ .text.QEQueue_postLIFO
+                0x00000000       0x6c dbg/qf_qeq.o
+ .text.QEQueue_get
+                0x00000000       0x54 dbg/qf_qeq.o
+ .bss.QEQueue_dummy
+                0x00000000       0x10 dbg/qf_qeq.o
+ .rodata.Q_this_module_
+                0x00000000        0x7 dbg/qf_qeq.o
+ .debug_info    0x00000000      0x595 dbg/qf_qeq.o
+ .debug_abbrev  0x00000000      0x21a dbg/qf_qeq.o
+ .debug_loc     0x00000000      0x29d dbg/qf_qeq.o
+ .debug_aranges
+                0x00000000       0x38 dbg/qf_qeq.o
+ .debug_ranges  0x00000000       0x40 dbg/qf_qeq.o
+ .debug_line    0x00000000      0x454 dbg/qf_qeq.o
+ .debug_str     0x00000000      0x2f2 dbg/qf_qeq.o
+ .comment       0x00000000       0x4a dbg/qf_qeq.o
+ .debug_frame   0x00000000       0x78 dbg/qf_qeq.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/qf_qeq.o
+ .text          0x00000000        0x0 dbg/qf_qmact.o
+ .data          0x00000000        0x0 dbg/qf_qmact.o
+ .bss           0x00000000        0x0 dbg/qf_qmact.o
+ .text.QMActive_ctor
+                0x00000000       0x20 dbg/qf_qmact.o
+ .rodata.vtable.0
+                0x00000000        0x8 dbg/qf_qmact.o
+ .debug_info    0x00000000      0x856 dbg/qf_qmact.o
+ .debug_abbrev  0x00000000      0x211 dbg/qf_qmact.o
+ .debug_loc     0x00000000       0x64 dbg/qf_qmact.o
+ .debug_aranges
+                0x00000000       0x20 dbg/qf_qmact.o
+ .debug_ranges  0x00000000       0x10 dbg/qf_qmact.o
+ .debug_line    0x00000000      0x1f3 dbg/qf_qmact.o
+ .debug_str     0x00000000      0x589 dbg/qf_qmact.o
+ .comment       0x00000000       0x4a dbg/qf_qmact.o
+ .debug_frame   0x00000000       0x2c dbg/qf_qmact.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/qf_qmact.o
+ .text          0x00000000        0x0 dbg/qf_time.o
+ .data          0x00000000        0x0 dbg/qf_time.o
+ .bss           0x00000000        0x0 dbg/qf_time.o
+ .text.QTimeEvt_rearm
+                0x00000000       0x68 dbg/qf_time.o
+ .text.QTimeEvt_wasDisarmed
+                0x00000000       0x1e dbg/qf_time.o
+ .text.QTimeEvt_currCtr
+                0x00000000       0x12 dbg/qf_time.o
+ .text.QTimeEvt_tick_
+                0x00000000       0xcc dbg/qf_time.o
+ .text.QTimeEvt_noActive
+                0x00000000       0x38 dbg/qf_time.o
+ .text          0x00000000        0x0 dbg/qf_port.o
+ .data          0x00000000        0x0 dbg/qf_port.o
+ .bss           0x00000000        0x0 dbg/qf_port.o
+ .text.QF_stop  0x00000000        0x8 dbg/qf_port.o
+ .text.QActive_postLIFO_
+                0x00000000       0x50 dbg/qf_port.o
+ .text          0x00000000        0x0 dbg/tasks.o
+ .data          0x00000000        0x0 dbg/tasks.o
+ .bss           0x00000000        0x0 dbg/tasks.o
+ .text.vTaskDelete
+                0x00000000       0xdc dbg/tasks.o
+ .text.eTaskGetState
+                0x00000000       0x70 dbg/tasks.o
+ .text.uxTaskPriorityGet
+                0x00000000       0x20 dbg/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x30 dbg/tasks.o
+ .text.vTaskPrioritySet
+                0x00000000      0x100 dbg/tasks.o
+ .text.vTaskEndScheduler
+                0x00000000       0x24 dbg/tasks.o
+ .text.xTaskGetTickCount
+                0x00000000        0xc dbg/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x10 dbg/tasks.o
+ .text.pcTaskGetName
+                0x00000000       0x28 dbg/tasks.o
+ .text.xTaskGetStaticBuffers
+                0x00000000       0x40 dbg/tasks.o
+ .text.vTaskDelay
+                0x00000000       0x48 dbg/tasks.o
+ .text.xTaskCatchUpTicks
+                0x00000000       0x3c dbg/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x6c dbg/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0xdc dbg/tasks.o
+ .text.vTaskSetTimeOutState
+                0x00000000       0x34 dbg/tasks.o
+ .text.uxTaskGetStackHighWaterMark
+                0x00000000       0x30 dbg/tasks.o
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000        0xc dbg/tasks.o
+ .text.xTaskPriorityInherit
+                0x00000000       0xc0 dbg/tasks.o
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00000000       0xcc dbg/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x18 dbg/tasks.o
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x1c dbg/tasks.o
+ .text.ulTaskGenericNotifyTake
+                0x00000000       0xac dbg/tasks.o
+ .text.xTaskGenericNotifyWait
+                0x00000000       0xc8 dbg/tasks.o
+ .text.xTaskGenericNotify
+                0x00000000      0x15c dbg/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x198 dbg/tasks.o
+ .text.vTaskGenericNotifyGiveFromISR
+                0x00000000      0x124 dbg/tasks.o
+ .text.xTaskGenericNotifyStateClear
+                0x00000000       0x4c dbg/tasks.o
+ .text.ulTaskGenericNotifyValueClear
+                0x00000000       0x40 dbg/tasks.o
+ .text          0x00000000        0x0 dbg/queue.o
+ .data          0x00000000        0x0 dbg/queue.o
+ .bss           0x00000000        0x0 dbg/queue.o
+ .text.xQueueGenericGetStaticBuffers
+                0x00000000       0x34 dbg/queue.o
+ .text.xQueueGetMutexHolder
+                0x00000000       0x2c dbg/queue.o
+ .text.xQueueGetMutexHolderFromISR
+                0x00000000       0x24 dbg/queue.o
+ .text.xQueueCreateCountingSemaphoreStatic
+                0x00000000       0x34 dbg/queue.o
+ .text.xQueueCreateMutexStatic
+                0x00000000       0x2c dbg/queue.o
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x40 dbg/queue.o
+ .text.xQueueGiveFromISR
+                0x00000000       0xbc dbg/queue.o
+ .text.xQueueSemaphoreTake
+                0x00000000      0x184 dbg/queue.o
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x40 dbg/queue.o
+ .text.xQueuePeek
+                0x00000000      0x14c dbg/queue.o
+ .text.xQueueReceiveFromISR
+                0x00000000       0xbc dbg/queue.o
+ .text.xQueuePeekFromISR
+                0x00000000       0x70 dbg/queue.o
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x24 dbg/queue.o
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x28 dbg/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x1c dbg/queue.o
+ .text.uxQueueGetQueueItemSize
+                0x00000000        0x4 dbg/queue.o
+ .text.uxQueueGetQueueLength
+                0x00000000        0x4 dbg/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x20 dbg/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x24 dbg/queue.o
+ .text.vQueueAddToRegistry
+                0x00000000       0x58 dbg/queue.o
+ .text.pcQueueGetName
+                0x00000000       0x3c dbg/queue.o
+ .text.vQueueUnregisterQueue
+                0x00000000       0x40 dbg/queue.o
+ .text.vQueueDelete
+                0x00000000       0x20 dbg/queue.o
+ .bss.xQueueRegistry
+                0x00000000       0x50 dbg/queue.o
+ .text          0x00000000        0x0 dbg/list.o
+ .data          0x00000000        0x0 dbg/list.o
+ .bss           0x00000000        0x0 dbg/list.o
+ .text.vListInsertEnd
+                0x00000000       0x16 dbg/list.o
+ .text          0x00000000        0x0 dbg/port.o
+ .data          0x00000000        0x0 dbg/port.o
+ .bss           0x00000000        0x0 dbg/port.o
+ .text.vPortEndScheduler
+                0x00000000       0x24 dbg/port.o
+ .text          0x00000000        0x0 dbg/qstamp.o
+ .data          0x00000000        0x0 dbg/qstamp.o
+ .bss           0x00000000        0x0 dbg/qstamp.o
+ .rodata.Q_BUILD_DATE
+                0x00000000        0xc dbg/qstamp.o
+ .rodata.Q_BUILD_TIME
+                0x00000000        0x9 dbg/qstamp.o
+ .debug_info    0x00000000       0x8e dbg/qstamp.o
+ .debug_abbrev  0x00000000       0x63 dbg/qstamp.o
+ .debug_aranges
+                0x00000000       0x18 dbg/qstamp.o
+ .debug_line    0x00000000       0x5d dbg/qstamp.o
+ .debug_str     0x00000000      0x120 dbg/qstamp.o
+ .comment       0x00000000       0x4a dbg/qstamp.o
+ .ARM.attributes
+                0x00000000       0x30 dbg/qstamp.o
+ .text          0x00000000       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000       0x2c c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000      0x2d0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x34 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_udivmoddi4.o)
+ .text          0x00000000        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtend.o
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtend.o
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtend.o
+ .rodata        0x00000000       0x24 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtend.o
+ .eh_frame      0x00000000        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtend.o
+ .ARM.attributes
+                0x00000000       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtend.o
+ .text          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtn.o
+ .data          0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtn.o
+ .bss           0x00000000        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x08000000         0x00200000         xr
+RAM              0x24000000         0x00080000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crti.o
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+LOAD dbg/bsp.o
+LOAD dbg/main.o
+LOAD dbg/philo.o
+LOAD dbg/table.o
+LOAD dbg/startup_stm32h743xx.o
+LOAD dbg/system_stm32h7xx.o
+LOAD dbg/stm32h7xx_nucleo_144.o
+LOAD dbg/stm32h7xx_hal.o
+LOAD dbg/stm32h7xx_hal_cortex.o
+LOAD dbg/stm32h7xx_hal_gpio.o
+LOAD dbg/stm32h7xx_hal_pwr_ex.o
+LOAD dbg/stm32h7xx_hal_rcc.o
+LOAD dbg/stm32h7xx_hal_rcc_ex.o
+LOAD dbg/stm32h7xx_hal_msp.o
+LOAD dbg/stm32h7xx_hal_uart.o
+LOAD dbg/qep_hsm.o
+LOAD dbg/qep_msm.o
+LOAD dbg/qf_act.o
+LOAD dbg/qf_defer.o
+LOAD dbg/qf_dyn.o
+LOAD dbg/qf_mem.o
+LOAD dbg/qf_ps.o
+LOAD dbg/qf_qact.o
+LOAD dbg/qf_qeq.o
+LOAD dbg/qf_qmact.o
+LOAD dbg/qf_time.o
+LOAD dbg/qf_port.o
+LOAD dbg/tasks.o
+LOAD dbg/queue.o
+LOAD dbg/list.o
+LOAD dbg/port.o
+LOAD dbg/qstamp.o
+START GROUP
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a
+END GROUP
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtend.o
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtn.o
+                0x00000400                STACK_SIZE = 0x400
+                0x00000000                HEAP_SIZE = 0x0
+
+.isr_vector     0x08000000      0x298
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x298 dbg/startup_stm32h743xx.o
+                0x08000000                g_pfnVectors
+                0x08000298                . = ALIGN (0x4)
+
+.eh_frame       0x08000298        0x0
+ .eh_frame      0x08000298        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+
+.text           0x080002a0     0x394c
+                0x080002a0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080002a0       0x40 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+ *(.text*)
+ .text.Q_onError
+                0x080002e0        0xa dbg/bsp.o
+                0x080002e0                Q_onError
+ .text.assert_failed
+                0x080002ea        0xa dbg/bsp.o
+                0x080002ea                assert_failed
+ .text.EXTI0_IRQHandler
+                0x080002f4       0x48 dbg/bsp.o
+                0x080002f4                EXTI0_IRQHandler
+ .text.vApplicationTickHook
+                0x0800033c       0x70 dbg/bsp.o
+                0x0800033c                vApplicationTickHook
+ *fill*         0x080003ac        0x4 
+ .text.vApplicationIdleHook
+                0x080003b0       0x48 dbg/bsp.o
+                0x080003b0                vApplicationIdleHook
+ .text.vApplicationStackOverflowHook
+                0x080003f8        0xe dbg/bsp.o
+                0x080003f8                vApplicationStackOverflowHook
+ *fill*         0x08000406        0x2 
+ .text.vApplicationGetIdleTaskMemory
+                0x08000408       0x18 dbg/bsp.o
+                0x08000408                vApplicationGetIdleTaskMemory
+ .text.BSP_init
+                0x08000420       0xe8 dbg/bsp.o
+                0x08000420                BSP_init
+ .text.BSP_start
+                0x08000508       0xc4 dbg/bsp.o
+                0x08000508                BSP_start
+ .text.BSP_displayPhilStat
+                0x080005cc       0x18 dbg/bsp.o
+                0x080005cc                BSP_displayPhilStat
+ .text.BSP_displayPaused
+                0x080005e4       0x14 dbg/bsp.o
+                0x080005e4                BSP_displayPaused
+ .text.BSP_random
+                0x080005f8       0x50 dbg/bsp.o
+                0x080005f8                BSP_random
+ .text.QF_onStartup
+                0x08000648       0x38 dbg/bsp.o
+                0x08000648                QF_onStartup
+ .text.main     0x08000680       0x14 dbg/main.o
+                0x08000680                main
+ .text.Philo_initial
+                0x08000694       0x20 dbg/philo.o
+ .text.Philo_hungry
+                0x080006b4       0x88 dbg/philo.o
+ .text.Philo_eating
+                0x0800073c       0xa4 dbg/philo.o
+ .text.Philo_thinking
+                0x080007e0       0x90 dbg/philo.o
+ .text.Philo_ctor
+                0x08000870       0x34 dbg/philo.o
+                0x08000870                Philo_ctor
+ .text.Table_initial
+                0x080008a4       0x58 dbg/table.o
+ .text.Table_active
+                0x080008fc       0x2c dbg/table.o
+ .text.Table_serving
+                0x08000928      0x294 dbg/table.o
+ .text.Table_paused
+                0x08000bbc      0x100 dbg/table.o
+ .text.Table_ctor
+                0x08000cbc       0x40 dbg/table.o
+                0x08000cbc                Table_ctor
+ .text.Reset_Handler
+                0x08000cfc       0x88 dbg/startup_stm32h743xx.o
+                0x08000cfc                Reset_Handler
+ .text.NMI_Handler
+                0x08000d84       0x18 dbg/startup_stm32h743xx.o
+                0x08000d84                NMI_Handler
+ .text.HardFault_Handler
+                0x08000d9c       0x18 dbg/startup_stm32h743xx.o
+                0x08000d9c                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000db4       0x18 dbg/startup_stm32h743xx.o
+                0x08000db4                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000dcc       0x18 dbg/startup_stm32h743xx.o
+                0x08000dcc                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000de4       0x18 dbg/startup_stm32h743xx.o
+                0x08000de4                UsageFault_Handler
+ .text.Default_Handler
+                0x08000dfc       0x18 dbg/startup_stm32h743xx.o
+                0x08000dfc                RTC_Alarm_IRQHandler
+                0x08000dfc                EXTI2_IRQHandler
+                0x08000dfc                TIM8_CC_IRQHandler
+                0x08000dfc                HRTIM1_Master_IRQHandler
+                0x08000dfc                DebugMon_Handler
+                0x08000dfc                UART8_IRQHandler
+                0x08000dfc                SPI4_IRQHandler
+                0x08000dfc                Reserved65_IRQHandler
+                0x08000dfc                TIM1_CC_IRQHandler
+                0x08000dfc                BDMA_Channel6_IRQHandler
+                0x08000dfc                DMA2_Stream5_IRQHandler
+                0x08000dfc                HRTIM1_FLT_IRQHandler
+                0x08000dfc                JPEG_IRQHandler
+                0x08000dfc                DMA1_Stream5_IRQHandler
+                0x08000dfc                Reserved64_IRQHandler
+                0x08000dfc                BDMA_Channel1_IRQHandler
+                0x08000dfc                HRTIM1_TIMD_IRQHandler
+                0x08000dfc                TAMP_STAMP_IRQHandler
+                0x08000dfc                EXTI3_IRQHandler
+                0x08000dfc                LPTIM4_IRQHandler
+                0x08000dfc                Reserved79_IRQHandler
+                0x08000dfc                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000dfc                LPTIM2_IRQHandler
+                0x08000dfc                DFSDM1_FLT1_IRQHandler
+                0x08000dfc                DMAMUX2_OVR_IRQHandler
+                0x08000dfc                TIM8_UP_TIM13_IRQHandler
+                0x08000dfc                I2C3_ER_IRQHandler
+                0x08000dfc                DFSDM1_FLT2_IRQHandler
+                0x08000dfc                MDMA_IRQHandler
+                0x08000dfc                LPTIM3_IRQHandler
+                0x08000dfc                Reserved42_IRQHandler
+                0x08000dfc                HSEM1_IRQHandler
+                0x08000dfc                I2C2_EV_IRQHandler
+                0x08000dfc                DMA1_Stream2_IRQHandler
+                0x08000dfc                FPU_IRQHandler
+                0x08000dfc                OTG_HS_WKUP_IRQHandler
+                0x08000dfc                FDCAN1_IT1_IRQHandler
+                0x08000dfc                LTDC_ER_IRQHandler
+                0x08000dfc                DMA2_Stream2_IRQHandler
+                0x08000dfc                HRTIM1_TIME_IRQHandler
+                0x08000dfc                SPI1_IRQHandler
+                0x08000dfc                TIM6_DAC_IRQHandler
+                0x08000dfc                DCMI_IRQHandler
+                0x08000dfc                HRTIM1_TIMC_IRQHandler
+                0x08000dfc                DMA2_Stream3_IRQHandler
+                0x08000dfc                SAI2_IRQHandler
+                0x08000dfc                DFSDM1_FLT3_IRQHandler
+                0x08000dfc                USART6_IRQHandler
+                0x08000dfc                TIM17_IRQHandler
+                0x08000dfc                USART3_IRQHandler
+                0x08000dfc                BDMA_Channel7_IRQHandler
+                0x08000dfc                LPTIM5_IRQHandler
+                0x08000dfc                UART5_IRQHandler
+                0x08000dfc                ADC3_IRQHandler
+                0x08000dfc                DMA2_Stream0_IRQHandler
+                0x08000dfc                TIM4_IRQHandler
+                0x08000dfc                Reserved126_IRQHandler
+                0x08000dfc                BDMA_Channel2_IRQHandler
+                0x08000dfc                QUADSPI_IRQHandler
+                0x08000dfc                I2C1_EV_IRQHandler
+                0x08000dfc                DMA1_Stream6_IRQHandler
+                0x08000dfc                DMAMUX1_OVR_IRQHandler
+                0x08000dfc                DMA1_Stream1_IRQHandler
+                0x08000dfc                TIM16_IRQHandler
+                0x08000dfc                UART4_IRQHandler
+                0x08000dfc                BDMA_Channel5_IRQHandler
+                0x08000dfc                Reserved66_IRQHandler
+                0x08000dfc                TIM3_IRQHandler
+                0x08000dfc                RCC_IRQHandler
+                0x08000dfc                TIM8_BRK_TIM12_IRQHandler
+                0x08000dfc                TIM1_TRG_COM_IRQHandler
+                0x08000dfc                Default_Handler
+                0x08000dfc                CEC_IRQHandler
+                0x08000dfc                EXTI15_10_IRQHandler
+                0x08000dfc                BDMA_Channel0_IRQHandler
+                0x08000dfc                ADC_IRQHandler
+                0x08000dfc                DMA1_Stream7_IRQHandler
+                0x08000dfc                HRTIM1_TIMA_IRQHandler
+                0x08000dfc                SPI5_IRQHandler
+                0x08000dfc                TIM7_IRQHandler
+                0x08000dfc                SDMMC1_IRQHandler
+                0x08000dfc                TIM5_IRQHandler
+                0x08000dfc                DMA2_Stream7_IRQHandler
+                0x08000dfc                TIM15_IRQHandler
+                0x08000dfc                PVD_AVD_IRQHandler
+                0x08000dfc                I2C3_EV_IRQHandler
+                0x08000dfc                EXTI9_5_IRQHandler
+                0x08000dfc                RTC_WKUP_IRQHandler
+                0x08000dfc                LTDC_IRQHandler
+                0x08000dfc                SAI3_IRQHandler
+                0x08000dfc                ETH_WKUP_IRQHandler
+                0x08000dfc                Reserved148_IRQHandler
+                0x08000dfc                SPDIF_RX_IRQHandler
+                0x08000dfc                SPI2_IRQHandler
+                0x08000dfc                OTG_HS_EP1_IN_IRQHandler
+                0x08000dfc                DMA1_Stream0_IRQHandler
+                0x08000dfc                CRS_IRQHandler
+                0x08000dfc                Reserved147_IRQHandler
+                0x08000dfc                EXTI4_IRQHandler
+                0x08000dfc                Reserved123_IRQHandler
+                0x08000dfc                RNG_IRQHandler
+                0x08000dfc                HRTIM1_TIMB_IRQHandler
+                0x08000dfc                FDCAN2_IT1_IRQHandler
+                0x08000dfc                ETH_IRQHandler
+                0x08000dfc                TIM1_UP_IRQHandler
+                0x08000dfc                Reserved143_IRQHandler
+                0x08000dfc                BDMA_Channel4_IRQHandler
+                0x08000dfc                OTG_HS_EP1_OUT_IRQHandler
+                0x08000dfc                WWDG_IRQHandler
+                0x08000dfc                SPI6_IRQHandler
+                0x08000dfc                I2C4_EV_IRQHandler
+                0x08000dfc                MDIOS_IRQHandler
+                0x08000dfc                FDCAN2_IT0_IRQHandler
+                0x08000dfc                LPUART1_IRQHandler
+                0x08000dfc                FDCAN1_IT0_IRQHandler
+                0x08000dfc                TIM2_IRQHandler
+                0x08000dfc                OTG_FS_WKUP_IRQHandler
+                0x08000dfc                OTG_HS_IRQHandler
+                0x08000dfc                DMA2D_IRQHandler
+                0x08000dfc                TIM1_BRK_IRQHandler
+                0x08000dfc                EXTI1_IRQHandler
+                0x08000dfc                SDMMC2_IRQHandler
+                0x08000dfc                OTG_FS_EP1_OUT_IRQHandler
+                0x08000dfc                BDMA_Channel3_IRQHandler
+                0x08000dfc                UART7_IRQHandler
+                0x08000dfc                MDIOS_WKUP_IRQHandler
+                0x08000dfc                USART2_IRQHandler
+                0x08000dfc                DFSDM1_FLT0_IRQHandler
+                0x08000dfc                SAI4_IRQHandler
+                0x08000dfc                Reserved124_IRQHandler
+                0x08000dfc                Reserved145_IRQHandler
+                0x08000dfc                I2C2_ER_IRQHandler
+                0x08000dfc                DMA2_Stream1_IRQHandler
+                0x08000dfc                FLASH_IRQHandler
+                0x08000dfc                DMA2_Stream4_IRQHandler
+                0x08000dfc                USART1_IRQHandler
+                0x08000dfc                OTG_FS_IRQHandler
+                0x08000dfc                SPI3_IRQHandler
+                0x08000dfc                WAKEUP_PIN_IRQHandler
+                0x08000dfc                DMA1_Stream4_IRQHandler
+                0x08000dfc                OTG_FS_EP1_IN_IRQHandler
+                0x08000dfc                I2C1_ER_IRQHandler
+                0x08000dfc                FMC_IRQHandler
+                0x08000dfc                FDCAN_CAL_IRQHandler
+                0x08000dfc                SWPMI1_IRQHandler
+                0x08000dfc                COMP1_IRQHandler
+                0x08000dfc                LPTIM1_IRQHandler
+                0x08000dfc                I2C4_ER_IRQHandler
+                0x08000dfc                DMA2_Stream6_IRQHandler
+                0x08000dfc                SAI1_IRQHandler
+                0x08000dfc                DMA1_Stream3_IRQHandler
+                0x08000dfc                Reserved67_IRQHandler
+ .text.SystemInit
+                0x08000e14       0xcc dbg/system_stm32h7xx.o
+                0x08000e14                SystemInit
+ .text.SystemCoreClockUpdate
+                0x08000ee0      0x210 dbg/system_stm32h7xx.o
+                0x08000ee0                SystemCoreClockUpdate
+ .text.BSP_LED_Init
+                0x080010f0       0x7c dbg/stm32h7xx_nucleo_144.o
+                0x080010f0                BSP_LED_Init
+ .text.BSP_LED_On
+                0x0800116c       0x20 dbg/stm32h7xx_nucleo_144.o
+                0x0800116c                BSP_LED_On
+ .text.BSP_LED_Off
+                0x0800118c       0x20 dbg/stm32h7xx_nucleo_144.o
+                0x0800118c                BSP_LED_Off
+ .text.BSP_PB_Init
+                0x080011ac       0x80 dbg/stm32h7xx_nucleo_144.o
+                0x080011ac                BSP_PB_Init
+ .text.BSP_PB_GetState
+                0x0800122c       0x18 dbg/stm32h7xx_nucleo_144.o
+                0x0800122c                BSP_PB_GetState
+ .text.HAL_NVIC_SetPriority
+                0x08001244       0x68 dbg/stm32h7xx_hal_cortex.o
+                0x08001244                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x080012ac       0x1c dbg/stm32h7xx_hal_cortex.o
+                0x080012ac                HAL_NVIC_EnableIRQ
+ .text.HAL_GPIO_Init
+                0x080012c8      0x23c dbg/stm32h7xx_hal_gpio.o
+                0x080012c8                HAL_GPIO_Init
+ .text.HAL_GPIO_ReadPin
+                0x08001504        0xc dbg/stm32h7xx_hal_gpio.o
+                0x08001504                HAL_GPIO_ReadPin
+ .text.HAL_GPIO_WritePin
+                0x08001510        0xc dbg/stm32h7xx_hal_gpio.o
+                0x08001510                HAL_GPIO_WritePin
+ .text.QHsm_top
+                0x0800151c        0x4 dbg/qep_hsm.o
+                0x0800151c                QHsm_top
+ .text.QHsm_init_
+                0x08001520       0xd0 dbg/qep_hsm.o
+                0x08001520                QHsm_init_
+ .text.QHsm_ctor
+                0x080015f0       0x14 dbg/qep_hsm.o
+                0x080015f0                QHsm_ctor
+ .text.QHsm_tran_
+                0x08001604      0x128 dbg/qep_hsm.o
+                0x08001604                QHsm_tran_
+ .text.QHsm_dispatch_
+                0x0800172c      0x164 dbg/qep_hsm.o
+                0x0800172c                QHsm_dispatch_
+ .text.QF_bzero_
+                0x08001890       0x12 dbg/qf_act.o
+                0x08001890                QF_bzero_
+ *fill*         0x080018a2        0x2 
+ .text.QF_LOG2  0x080018a4       0x24 dbg/qf_act.o
+                0x080018a4                QF_LOG2
+ .text.QF_poolInit
+                0x080018c8       0x68 dbg/qf_dyn.o
+                0x080018c8                QF_poolInit
+ .text.QF_newX_
+                0x08001930       0x94 dbg/qf_dyn.o
+                0x08001930                QF_newX_
+ .text.QF_gc    0x080019c4       0x7c dbg/qf_dyn.o
+                0x080019c4                QF_gc
+ .text.QMPool_init
+                0x08001a40       0xb8 dbg/qf_mem.o
+                0x08001a40                QMPool_init
+ .text.QMPool_get
+                0x08001af8       0x8c dbg/qf_mem.o
+                0x08001af8                QMPool_get
+ .text.QMPool_put
+                0x08001b84       0x44 dbg/qf_mem.o
+                0x08001b84                QMPool_put
+ .text.QActive_psInit
+                0x08001bc8       0x2c dbg/qf_ps.o
+                0x08001bc8                QActive_psInit
+ .text.QActive_publish_
+                0x08001bf4      0x108 dbg/qf_ps.o
+                0x08001bf4                QActive_publish_
+ .text.QActive_subscribe
+                0x08001cfc       0x88 dbg/qf_ps.o
+                0x08001cfc                QActive_subscribe
+ .text.QActive_ctor
+                0x08001d84       0x20 dbg/qf_qact.o
+                0x08001d84                QActive_ctor
+ .text.QActive_register_
+                0x08001da4       0xb4 dbg/qf_qact.o
+                0x08001da4                QActive_register_
+ .text.QTimeEvt_ctorX
+                0x08001e58       0x38 dbg/qf_time.o
+                0x08001e58                QTimeEvt_ctorX
+ .text.QTimeEvt_armX
+                0x08001e90       0x6c dbg/qf_time.o
+                0x08001e90                QTimeEvt_armX
+ .text.QTimeEvt_disarm
+                0x08001efc       0x2e dbg/qf_time.o
+                0x08001efc                QTimeEvt_disarm
+ .text.QF_init  0x08001f2a        0x2 dbg/qf_port.o
+                0x08001f2a                QF_init
+ .text.QF_run   0x08001f2c       0x24 dbg/qf_port.o
+                0x08001f2c                QF_run
+ .text.QActive_start_
+                0x08001f50       0xcc dbg/qf_port.o
+                0x08001f50                QActive_start_
+ .text.QActive_setAttr
+                0x0800201c       0x28 dbg/qf_port.o
+                0x0800201c                QActive_setAttr
+ .text.QActive_post_
+                0x08002044       0x7c dbg/qf_port.o
+                0x08002044                QActive_post_
+ .text.QActive_get_
+                0x080020c0       0x1a dbg/qf_port.o
+                0x080020c0                QActive_get_
+ .text.task_function
+                0x080020da       0x22 dbg/qf_port.o
+ .text.QMPool_putFromISR
+                0x080020fc       0x54 dbg/qf_port.o
+                0x080020fc                QMPool_putFromISR
+ .text.QF_gcFromISR
+                0x08002150       0x70 dbg/qf_port.o
+                0x08002150                QF_gcFromISR
+ .text.QActive_postFromISR_
+                0x080021c0       0xa4 dbg/qf_port.o
+                0x080021c0                QActive_postFromISR_
+ .text.QTimeEvt_tickFromISR_
+                0x08002264       0xb4 dbg/qf_port.o
+                0x08002264                QTimeEvt_tickFromISR_
+ .text.QActive_publishFromISR_
+                0x08002318       0xf0 dbg/qf_port.o
+                0x08002318                QActive_publishFromISR_
+ .text.QMPool_getFromISR
+                0x08002408       0xa0 dbg/qf_port.o
+                0x08002408                QMPool_getFromISR
+ .text.QF_newXFromISR_
+                0x080024a8       0xb4 dbg/qf_port.o
+                0x080024a8                QF_newXFromISR_
+ .text.prvResetNextTaskUnblockTime
+                0x0800255c       0x28 dbg/tasks.o
+ .text.prvAddCurrentTaskToDelayedList
+                0x08002584       0x78 dbg/tasks.o
+ .text.prvIdleTask
+                0x080025fc       0x48 dbg/tasks.o
+ .text.xTaskCreateStatic
+                0x08002644      0x20c dbg/tasks.o
+                0x08002644                xTaskCreateStatic
+ .text.vTaskStartScheduler
+                0x08002850       0x74 dbg/tasks.o
+                0x08002850                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x080028c4       0x10 dbg/tasks.o
+                0x080028c4                vTaskSuspendAll
+ .text.uxTaskGetNumberOfTasks
+                0x080028d4        0xc dbg/tasks.o
+                0x080028d4                uxTaskGetNumberOfTasks
+ .text.xTaskIncrementTick
+                0x080028e0      0x1e0 dbg/tasks.o
+                0x080028e0                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x08002ac0      0x1ac dbg/tasks.o
+                0x08002ac0                xTaskResumeAll
+ .text.vTaskSwitchContext
+                0x08002c6c       0xc8 dbg/tasks.o
+                0x08002c6c                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x08002d34       0x34 dbg/tasks.o
+                0x08002d34                vTaskPlaceOnEventList
+ .text.xTaskRemoveFromEventList
+                0x08002d68       0xec dbg/tasks.o
+                0x08002d68                xTaskRemoveFromEventList
+ .text.vTaskInternalSetTimeOutState
+                0x08002e54       0x18 dbg/tasks.o
+                0x08002e54                vTaskInternalSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x08002e6c       0x74 dbg/tasks.o
+                0x08002e6c                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x08002ee0        0xc dbg/tasks.o
+                0x08002ee0                vTaskMissedYield
+ .text.xTaskGetSchedulerState
+                0x08002eec       0x20 dbg/tasks.o
+                0x08002eec                xTaskGetSchedulerState
+ .text.xTaskPriorityDisinherit
+                0x08002f0c       0xb0 dbg/tasks.o
+                0x08002f0c                xTaskPriorityDisinherit
+ .text.prvIsQueueEmpty
+                0x08002fbc       0x16 dbg/queue.o
+ .text.prvCopyDataToQueue
+                0x08002fd2       0x72 dbg/queue.o
+ .text.prvCopyDataFromQueue
+                0x08003044       0x24 dbg/queue.o
+ .text.prvUnlockQueue
+                0x08003068       0x76 dbg/queue.o
+ *fill*         0x080030de        0x2 
+ .text.xQueueGenericReset
+                0x080030e0       0xa0 dbg/queue.o
+                0x080030e0                xQueueGenericReset
+ .text.xQueueGenericCreateStatic
+                0x08003180       0x68 dbg/queue.o
+                0x08003180                xQueueGenericCreateStatic
+ .text.xQueueGenericSend
+                0x080031e8      0x180 dbg/queue.o
+                0x080031e8                xQueueGenericSend
+ .text.xQueueGenericSendFromISR
+                0x08003368       0xdc dbg/queue.o
+                0x08003368                xQueueGenericSendFromISR
+ .text.xQueueReceive
+                0x08003444      0x154 dbg/queue.o
+                0x08003444                xQueueReceive
+ .text.vListInitialise
+                0x08003598       0x16 dbg/list.o
+                0x08003598                vListInitialise
+ .text.vListInitialiseItem
+                0x080035ae        0x6 dbg/list.o
+                0x080035ae                vListInitialiseItem
+ .text.vListInsert
+                0x080035b4       0x32 dbg/list.o
+                0x080035b4                vListInsert
+ .text.uxListRemove
+                0x080035e6       0x26 dbg/list.o
+                0x080035e6                uxListRemove
+ .text.prvPortStartFirstTask
+                0x0800360c       0x28 dbg/port.o
+ .text.vPortEnableVFP
+                0x08003634       0x14 dbg/port.o
+ .text.prvTaskExitError
+                0x08003648       0x40 dbg/port.o
+ .text.pxPortInitialiseStack
+                0x08003688       0x2c dbg/port.o
+                0x08003688                pxPortInitialiseStack
+ *fill*         0x080036b4        0xc 
+ .text.SVC_Handler
+                0x080036c0       0x24 dbg/port.o
+                0x080036c0                SVC_Handler
+ .text.vPortEnterCritical
+                0x080036e4       0x44 dbg/port.o
+                0x080036e4                vPortEnterCritical
+ .text.vPortExitCritical
+                0x08003728       0x2c dbg/port.o
+                0x08003728                vPortExitCritical
+ *fill*         0x08003754        0xc 
+ .text.PendSV_Handler
+                0x08003760       0x64 dbg/port.o
+                0x08003760                PendSV_Handler
+ .text.SysTick_Handler
+                0x080037c4       0x2c dbg/port.o
+                0x080037c4                SysTick_Handler
+ .text.vPortSetupTimerInterrupt
+                0x080037f0       0x28 dbg/port.o
+                0x080037f0                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x08003818       0xf8 dbg/port.o
+                0x08003818                xPortStartScheduler
+ .text.vPortValidateInterruptPriority
+                0x08003910       0x58 dbg/port.o
+                0x08003910                vPortValidateInterruptPriority
+ .text.__libc_init_array
+                0x08003968       0x48 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+                0x08003968                __libc_init_array
+ .text.memcpy   0x080039b0       0x1c c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+                0x080039b0                memcpy
+ .text.memset   0x080039cc       0x10 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memset.o)
+                0x080039cc                memset
+ *(.rodata)
+ *(.rodata*)
+ .rodata.BSP_start.str1.4
+                0x080039dc        0xe dbg/bsp.o
+ *fill*         0x080039ea        0x2 
+ .rodata.pauseEvt.9
+                0x080039ec        0x4 dbg/bsp.o
+ .rodata.serveEvt.8
+                0x080039f0        0x4 dbg/bsp.o
+ .rodata.AO_Philo
+                0x080039f4       0x14 dbg/philo.o
+                0x080039f4                AO_Philo
+ .rodata.Q_this_module_
+                0x08003a08        0xb dbg/philo.o
+ *fill*         0x08003a13        0x1 
+ .rodata.Table_initial.str1.4
+                0x08003a14        0x9 dbg/table.o
+ *fill*         0x08003a1d        0x3 
+ .rodata.Table_serving.str1.4
+                0x08003a20       0x15 dbg/table.o
+ *fill*         0x08003a35        0x3 
+ .rodata.AO_Table
+                0x08003a38        0x4 dbg/table.o
+                0x08003a38                AO_Table
+ .rodata.Q_this_module_
+                0x08003a3c        0xb dbg/table.o
+ *fill*         0x08003a47        0x1 
+ .rodata.Reset_Handler.str1.4
+                0x08003a48        0xe dbg/startup_stm32h743xx.o
+ *fill*         0x08003a56        0x2 
+ .rodata.NMI_Handler.str1.4
+                0x08003a58        0x4 dbg/startup_stm32h743xx.o
+ .rodata.HardFault_Handler.str1.4
+                0x08003a5c        0xa dbg/startup_stm32h743xx.o
+ *fill*         0x08003a66        0x2 
+ .rodata.MemManage_Handler.str1.4
+                0x08003a68        0xa dbg/startup_stm32h743xx.o
+ *fill*         0x08003a72        0x2 
+ .rodata.BusFault_Handler.str1.4
+                0x08003a74        0x9 dbg/startup_stm32h743xx.o
+ *fill*         0x08003a7d        0x3 
+ .rodata.UsageFault_Handler.str1.4
+                0x08003a80        0xb dbg/startup_stm32h743xx.o
+ *fill*         0x08003a8b        0x1 
+ .rodata.Default_Handler.str1.4
+                0x08003a8c        0x8 dbg/startup_stm32h743xx.o
+ .rodata.D1CorePrescTable
+                0x08003a94       0x10 dbg/system_stm32h7xx.o
+                0x08003a94                D1CorePrescTable
+ .rodata.GPIO_PIN
+                0x08003aa4        0x6 dbg/stm32h7xx_nucleo_144.o
+                0x08003aa4                GPIO_PIN
+ *fill*         0x08003aaa        0x2 
+ .rodata.QEvt_reserved_
+                0x08003aac       0x10 dbg/qep_hsm.o
+                0x08003aac                QEvt_reserved_
+ .rodata.Q_this_module_
+                0x08003abc        0x8 dbg/qep_hsm.o
+ .rodata.vtable.0
+                0x08003ac4        0x8 dbg/qep_hsm.o
+ .rodata.log2LUT.0
+                0x08003acc       0x10 dbg/qf_act.o
+ .rodata.Q_this_module_
+                0x08003adc        0x7 dbg/qf_dyn.o
+ *fill*         0x08003ae3        0x1 
+ .rodata.Q_this_module_
+                0x08003ae4        0x7 dbg/qf_mem.o
+ *fill*         0x08003aeb        0x1 
+ .rodata.Q_this_module_
+                0x08003aec        0x6 dbg/qf_ps.o
+ *fill*         0x08003af2        0x2 
+ .rodata.Q_this_module_
+                0x08003af4        0x8 dbg/qf_qact.o
+ .rodata.vtable.0
+                0x08003afc        0x8 dbg/qf_qact.o
+ .rodata.Q_this_module_
+                0x08003b04        0x8 dbg/qf_time.o
+ .rodata.QActive_start_.str1.4
+                0x08003b0c        0x3 dbg/qf_port.o
+ *fill*         0x08003b0f        0x1 
+ .rodata.Q_this_module_
+                0x08003b10        0x8 dbg/qf_port.o
+ .rodata.xTaskCreateStatic.str1.4
+                0x08003b18       0x31 dbg/tasks.o
+ *fill*         0x08003b49        0x3 
+ .rodata.vTaskStartScheduler.str1.4
+                0x08003b4c        0x5 dbg/tasks.o
+ *fill*         0x08003b51        0x3 
+ .rodata.xQueueGenericReset.str1.4
+                0x08003b54       0x31 dbg/queue.o
+ *fill*         0x08003b85        0x3 
+ .rodata.prvTaskExitError.str1.4
+                0x08003b88       0x4a dbg/port.o
+ *(.init)
+ *fill*         0x08003bd2        0x2 
+ .init          0x08003bd4        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crti.o
+                0x08003bd4                _init
+ .init          0x08003bd8        0x8 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtn.o
+ *(.fini)
+ .fini          0x08003be0        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crti.o
+                0x08003be0                _fini
+ .fini          0x08003be4        0x8 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtn.o
+                0x08003bec                . = ALIGN (0x4)
+
+.glue_7         0x08003bec        0x0
+ .glue_7        0x08003bec        0x0 linker stubs
+
+.glue_7t        0x08003bec        0x0
+ .glue_7t       0x08003bec        0x0 linker stubs
+
+.vfp11_veneer   0x08003bec        0x0
+ .vfp11_veneer  0x08003bec        0x0 linker stubs
+
+.v4_bx          0x08003bec        0x0
+ .v4_bx         0x08003bec        0x0 linker stubs
+
+.iplt           0x08003bec        0x0
+ .iplt          0x08003bec        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+
+.rel.dyn        0x08003bec        0x0
+ .rel.iplt      0x08003bec        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+
+.preinit_array  0x08003bec        0x0
+                0x08003bec                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08003bec                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08003bec        0x4
+                0x08003bec                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08003bec        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+                0x08003bf0                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08003bf0        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ .fini_array    0x08003bf0        0x4 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08003bf4                _etext = .
+
+.stack          0x24000000      0x400
+                0x24000000                __stack_start__ = .
+                0x24000400                . = (. + STACK_SIZE)
+ *fill*         0x24000000      0x400 
+                0x24000400                . = ALIGN (0x4)
+                0x24000400                __stack_end__ = .
+
+.data           0x24000400       0x20 load address 0x08003bf4
+                0x08003bf4                __data_load = LOADADDR (.data)
+                0x24000400                __data_start = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x24000400        0x4 dbg/system_stm32h7xx.o
+                0x24000400                SystemCoreClock
+ .data.SystemD2Clock
+                0x24000404        0x4 dbg/system_stm32h7xx.o
+                0x24000404                SystemD2Clock
+ .data.BUTTON_PORT
+                0x24000408        0x4 dbg/stm32h7xx_nucleo_144.o
+                0x24000408                BUTTON_PORT
+ .data.GPIO_PORT
+                0x2400040c        0xc dbg/stm32h7xx_nucleo_144.o
+                0x2400040c                GPIO_PORT
+ .data.uxTopUsedPriority
+                0x24000418        0x4 dbg/tasks.o
+                0x24000418                uxTopUsedPriority
+ .data.uxCriticalNesting
+                0x2400041c        0x4 dbg/port.o
+                0x24000420                . = ALIGN (0x4)
+                0x24000420                __data_end__ = .
+                0x24000420                _edata = __data_end__
+
+.igot.plt       0x24000420        0x0 load address 0x08003c14
+ .igot.plt      0x24000420        0x0 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+
+.bss            0x24000420     0x2600 load address 0x08003c14
+                0x24000420                __bss_start__ = .
+ *(.bss)
+ .bss           0x24000420       0x1c c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+ *(.bss*)
+ .bss.buttons.10
+                0x2400043c        0x8 dbg/bsp.o
+ .bss.l_rndSeed
+                0x24000444        0x4 dbg/bsp.o
+ .bss.philoQueueSto.3
+                0x24000448       0x64 dbg/bsp.o
+ .bss.philoStack.2
+                0x240004ac     0x1400 dbg/bsp.o
+ .bss.smlPoolSto.5
+                0x240018ac       0x50 dbg/bsp.o
+ .bss.subscrSto.4
+                0x240018fc       0x48 dbg/bsp.o
+ .bss.tableQueueSto.1
+                0x24001944       0x14 dbg/bsp.o
+ .bss.tableStack.0
+                0x24001958      0x400 dbg/bsp.o
+ .bss.uxIdleTaskStack.6
+                0x24001d58      0x400 dbg/bsp.o
+ .bss.xIdleTaskTCB.7
+                0x24002158       0x4c dbg/bsp.o
+ .bss.Philo_inst
+                0x240021a4      0x3d4 dbg/philo.o
+                0x240021a4                Philo_inst
+ .bss.Table_inst
+                0x24002578       0xb8 dbg/table.o
+                0x24002578                Table_inst
+ .bss.QActive_registry_
+                0x24002630       0x84 dbg/qf_act.o
+                0x24002630                QActive_registry_
+ .bss.QF_priv_  0x240026b4       0x40 dbg/qf_act.o
+                0x240026b4                QF_priv_
+ .bss.QActive_maxPubSignal_
+                0x240026f4        0x4 dbg/qf_ps.o
+                0x240026f4                QActive_maxPubSignal_
+ .bss.QActive_subscrList_
+                0x240026f8        0x4 dbg/qf_ps.o
+                0x240026f8                QActive_subscrList_
+ .bss.QTimeEvt_timeEvtHead_
+                0x240026fc       0x14 dbg/qf_time.o
+                0x240026fc                QTimeEvt_timeEvtHead_
+ .bss.pxCurrentTCB
+                0x24002710        0x4 dbg/tasks.o
+                0x24002710                pxCurrentTCB
+ .bss.pxDelayedTaskList
+                0x24002714        0x4 dbg/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x24002718        0x4 dbg/tasks.o
+ .bss.pxReadyTasksLists
+                0x2400271c      0x280 dbg/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x2400299c        0x4 dbg/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x240029a0        0x4 dbg/tasks.o
+ .bss.uxSchedulerSuspended
+                0x240029a4        0x4 dbg/tasks.o
+ .bss.uxTaskNumber
+                0x240029a8        0x4 dbg/tasks.o
+ .bss.uxTopReadyPriority
+                0x240029ac        0x4 dbg/tasks.o
+ .bss.xDelayedTaskList1
+                0x240029b0       0x14 dbg/tasks.o
+ .bss.xDelayedTaskList2
+                0x240029c4       0x14 dbg/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x240029d8        0x4 dbg/tasks.o
+ .bss.xNumOfOverflows
+                0x240029dc        0x4 dbg/tasks.o
+ .bss.xPendedTicks
+                0x240029e0        0x4 dbg/tasks.o
+ .bss.xPendingReadyList
+                0x240029e4       0x14 dbg/tasks.o
+ .bss.xSchedulerRunning
+                0x240029f8        0x4 dbg/tasks.o
+ .bss.xTasksWaitingTermination
+                0x240029fc       0x14 dbg/tasks.o
+ .bss.xTickCount
+                0x24002a10        0x4 dbg/tasks.o
+ .bss.xYieldPending
+                0x24002a14        0x4 dbg/tasks.o
+ .bss.ucMaxSysCallPriority
+                0x24002a18        0x1 dbg/port.o
+ *fill*         0x24002a19        0x3 
+ .bss.ulMaxPRIGROUPValue
+                0x24002a1c        0x4 dbg/port.o
+ *(COMMON)
+                0x24002a20                . = ALIGN (0x4)
+                0x24002a20                _ebss = .
+                0x24002a20                __bss_end__ = .
+                0x24002a20                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x24002a20                __exidx_end = .
+                [!provide]                PROVIDE (end = _ebss)
+                [!provide]                PROVIDE (_end = _ebss)
+                [!provide]                PROVIDE (__end__ = _ebss)
+
+.heap           0x24002a20        0x0
+                0x24002a20                __heap_start__ = .
+                0x24002a20                . = (. + HEAP_SIZE)
+                0x24002a20                . = ALIGN (0x4)
+                0x24002a20                __heap_end__ = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(dbg/dpp.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc.a
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libm.a
+LOAD c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x1e c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crti.o
+ .ARM.attributes
+                0x0000001e       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+ .ARM.attributes
+                0x0000004e       0x30 dbg/bsp.o
+ .ARM.attributes
+                0x0000007e       0x30 dbg/main.o
+ .ARM.attributes
+                0x000000ae       0x30 dbg/philo.o
+ .ARM.attributes
+                0x000000de       0x30 dbg/table.o
+ .ARM.attributes
+                0x0000010e       0x30 dbg/startup_stm32h743xx.o
+ .ARM.attributes
+                0x0000013e       0x30 dbg/system_stm32h7xx.o
+ .ARM.attributes
+                0x0000016e       0x30 dbg/stm32h7xx_nucleo_144.o
+ .ARM.attributes
+                0x0000019e       0x30 dbg/stm32h7xx_hal_cortex.o
+ .ARM.attributes
+                0x000001ce       0x30 dbg/stm32h7xx_hal_gpio.o
+ .ARM.attributes
+                0x000001fe       0x30 dbg/qep_hsm.o
+ .ARM.attributes
+                0x0000022e       0x30 dbg/qf_act.o
+ .ARM.attributes
+                0x0000025e       0x30 dbg/qf_dyn.o
+ .ARM.attributes
+                0x0000028e       0x30 dbg/qf_mem.o
+ .ARM.attributes
+                0x000002be       0x30 dbg/qf_ps.o
+ .ARM.attributes
+                0x000002ee       0x30 dbg/qf_qact.o
+ .ARM.attributes
+                0x0000031e       0x30 dbg/qf_time.o
+ .ARM.attributes
+                0x0000034e       0x30 dbg/qf_port.o
+ .ARM.attributes
+                0x0000037e       0x30 dbg/tasks.o
+ .ARM.attributes
+                0x000003ae       0x30 dbg/queue.o
+ .ARM.attributes
+                0x000003de       0x30 dbg/list.o
+ .ARM.attributes
+                0x0000040e       0x30 dbg/port.o
+ .ARM.attributes
+                0x0000043e       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000046e       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000049e       0x30 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000004ce       0x1e c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtn.o
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 dbg/bsp.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a dbg/main.o
+ .comment       0x00000049       0x4a dbg/philo.o
+ .comment       0x00000049       0x4a dbg/table.o
+ .comment       0x00000049       0x4a dbg/startup_stm32h743xx.o
+ .comment       0x00000049       0x4a dbg/system_stm32h7xx.o
+ .comment       0x00000049       0x4a dbg/stm32h7xx_nucleo_144.o
+ .comment       0x00000049       0x4a dbg/stm32h7xx_hal_cortex.o
+ .comment       0x00000049       0x4a dbg/stm32h7xx_hal_gpio.o
+ .comment       0x00000049       0x4a dbg/qep_hsm.o
+ .comment       0x00000049       0x4a dbg/qf_act.o
+ .comment       0x00000049       0x4a dbg/qf_dyn.o
+ .comment       0x00000049       0x4a dbg/qf_mem.o
+ .comment       0x00000049       0x4a dbg/qf_ps.o
+ .comment       0x00000049       0x4a dbg/qf_qact.o
+ .comment       0x00000049       0x4a dbg/qf_time.o
+ .comment       0x00000049       0x4a dbg/qf_port.o
+ .comment       0x00000049       0x4a dbg/tasks.o
+ .comment       0x00000049       0x4a dbg/queue.o
+ .comment       0x00000049       0x4a dbg/list.o
+ .comment       0x00000049       0x4a dbg/port.o
+
+.debug_info     0x00000000    0x1477e
+ .debug_info    0x00000000     0x2045 dbg/bsp.o
+ .debug_info    0x00002045       0xf9 dbg/main.o
+ .debug_info    0x0000213e      0xe02 dbg/philo.o
+ .debug_info    0x00002f40     0x1140 dbg/table.o
+ .debug_info    0x00004080      0x2c2 dbg/startup_stm32h743xx.o
+ .debug_info    0x00004342      0xd3f dbg/system_stm32h7xx.o
+ .debug_info    0x00005081      0xe47 dbg/stm32h7xx_nucleo_144.o
+ .debug_info    0x00005ec8     0x13fb dbg/stm32h7xx_hal_cortex.o
+ .debug_info    0x000072c3      0xd68 dbg/stm32h7xx_hal_gpio.o
+ .debug_info    0x0000802b      0xd9b dbg/qep_hsm.o
+ .debug_info    0x00008dc6      0x9e5 dbg/qf_act.o
+ .debug_info    0x000097ab      0x8d1 dbg/qf_dyn.o
+ .debug_info    0x0000a07c      0x4b9 dbg/qf_mem.o
+ .debug_info    0x0000a535     0x120c dbg/qf_ps.o
+ .debug_info    0x0000b741      0x9b0 dbg/qf_qact.o
+ .debug_info    0x0000c0f1      0xdcd dbg/qf_time.o
+ .debug_info    0x0000cebe     0x1fe8 dbg/qf_port.o
+ .debug_info    0x0000eea6     0x2a65 dbg/tasks.o
+ .debug_info    0x0001190b     0x2623 dbg/queue.o
+ .debug_info    0x00013f2e      0x2e0 dbg/list.o
+ .debug_info    0x0001420e      0x570 dbg/port.o
+
+.debug_abbrev   0x00000000     0x3923
+ .debug_abbrev  0x00000000      0x550 dbg/bsp.o
+ .debug_abbrev  0x00000550       0x77 dbg/main.o
+ .debug_abbrev  0x000005c7      0x2c0 dbg/philo.o
+ .debug_abbrev  0x00000887      0x379 dbg/table.o
+ .debug_abbrev  0x00000c00      0x132 dbg/startup_stm32h743xx.o
+ .debug_abbrev  0x00000d32      0x14a dbg/system_stm32h7xx.o
+ .debug_abbrev  0x00000e7c      0x283 dbg/stm32h7xx_nucleo_144.o
+ .debug_abbrev  0x000010ff      0x353 dbg/stm32h7xx_hal_cortex.o
+ .debug_abbrev  0x00001452      0x237 dbg/stm32h7xx_hal_gpio.o
+ .debug_abbrev  0x00001689      0x363 dbg/qep_hsm.o
+ .debug_abbrev  0x000019ec      0x241 dbg/qf_act.o
+ .debug_abbrev  0x00001c2d      0x2b9 dbg/qf_dyn.o
+ .debug_abbrev  0x00001ee6      0x19c dbg/qf_mem.o
+ .debug_abbrev  0x00002082      0x3c1 dbg/qf_ps.o
+ .debug_abbrev  0x00002443      0x257 dbg/qf_qact.o
+ .debug_abbrev  0x0000269a      0x35d dbg/qf_time.o
+ .debug_abbrev  0x000029f7      0x46e dbg/qf_port.o
+ .debug_abbrev  0x00002e65      0x3c5 dbg/tasks.o
+ .debug_abbrev  0x0000322a      0x36c dbg/queue.o
+ .debug_abbrev  0x00003596      0x106 dbg/list.o
+ .debug_abbrev  0x0000369c      0x287 dbg/port.o
+
+.debug_loc      0x00000000     0x9550
+ .debug_loc     0x00000000      0x3f3 dbg/bsp.o
+ .debug_loc     0x000003f3      0x4da dbg/philo.o
+ .debug_loc     0x000008cd      0x85d dbg/table.o
+ .debug_loc     0x0000112a       0x8b dbg/startup_stm32h743xx.o
+ .debug_loc     0x000011b5      0x1b0 dbg/system_stm32h7xx.o
+ .debug_loc     0x00001365      0x209 dbg/stm32h7xx_nucleo_144.o
+ .debug_loc     0x0000156e      0x67e dbg/stm32h7xx_hal_cortex.o
+ .debug_loc     0x00001bec      0x473 dbg/stm32h7xx_hal_gpio.o
+ .debug_loc     0x0000205f      0x8f8 dbg/qep_hsm.o
+ .debug_loc     0x00002957      0x18d dbg/qf_act.o
+ .debug_loc     0x00002ae4      0x3ca dbg/qf_dyn.o
+ .debug_loc     0x00002eae      0x2b3 dbg/qf_mem.o
+ .debug_loc     0x00003161      0x69d dbg/qf_ps.o
+ .debug_loc     0x000037fe      0x1e1 dbg/qf_qact.o
+ .debug_loc     0x000039df      0x42f dbg/qf_time.o
+ .debug_loc     0x00003e0e     0x11f1 dbg/qf_port.o
+ .debug_loc     0x00004fff     0x253f dbg/tasks.o
+ .debug_loc     0x0000753e     0x1e60 dbg/queue.o
+ .debug_loc     0x0000939e       0xad dbg/list.o
+ .debug_loc     0x0000944b      0x105 dbg/port.o
+
+.debug_aranges  0x00000000      0x8d8
+ .debug_aranges
+                0x00000000       0xa8 dbg/bsp.o
+ .debug_aranges
+                0x000000a8       0x20 dbg/main.o
+ .debug_aranges
+                0x000000c8       0x40 dbg/philo.o
+ .debug_aranges
+                0x00000108       0x40 dbg/table.o
+ .debug_aranges
+                0x00000148       0x50 dbg/startup_stm32h743xx.o
+ .debug_aranges
+                0x00000198       0x28 dbg/system_stm32h7xx.o
+ .debug_aranges
+                0x000001c0       0x60 dbg/stm32h7xx_nucleo_144.o
+ .debug_aranges
+                0x00000220       0xb0 dbg/stm32h7xx_hal_cortex.o
+ .debug_aranges
+                0x000002d0       0x58 dbg/stm32h7xx_hal_gpio.o
+ .debug_aranges
+                0x00000328       0x50 dbg/qep_hsm.o
+ .debug_aranges
+                0x00000378       0x28 dbg/qf_act.o
+ .debug_aranges
+                0x000003a0       0x50 dbg/qf_dyn.o
+ .debug_aranges
+                0x000003f0       0x30 dbg/qf_mem.o
+ .debug_aranges
+                0x00000420       0x40 dbg/qf_ps.o
+ .debug_aranges
+                0x00000460       0x30 dbg/qf_qact.o
+ .debug_aranges
+                0x00000490       0x58 dbg/qf_time.o
+ .debug_aranges
+                0x000004e8       0x98 dbg/qf_port.o
+ .debug_aranges
+                0x00000580      0x180 dbg/tasks.o
+ .debug_aranges
+                0x00000700      0x118 dbg/queue.o
+ .debug_aranges
+                0x00000818       0x40 dbg/list.o
+ .debug_aranges
+                0x00000858       0x80 dbg/port.o
+
+.debug_ranges   0x00000000      0xef8
+ .debug_ranges  0x00000000       0xb0 dbg/bsp.o
+ .debug_ranges  0x000000b0       0x10 dbg/main.o
+ .debug_ranges  0x000000c0       0x30 dbg/philo.o
+ .debug_ranges  0x000000f0      0x100 dbg/table.o
+ .debug_ranges  0x000001f0       0x40 dbg/startup_stm32h743xx.o
+ .debug_ranges  0x00000230       0x18 dbg/system_stm32h7xx.o
+ .debug_ranges  0x00000248       0x50 dbg/stm32h7xx_nucleo_144.o
+ .debug_ranges  0x00000298       0xd0 dbg/stm32h7xx_hal_cortex.o
+ .debug_ranges  0x00000368       0x60 dbg/stm32h7xx_hal_gpio.o
+ .debug_ranges  0x000003c8       0x98 dbg/qep_hsm.o
+ .debug_ranges  0x00000460       0x18 dbg/qf_act.o
+ .debug_ranges  0x00000478       0x40 dbg/qf_dyn.o
+ .debug_ranges  0x000004b8       0x38 dbg/qf_mem.o
+ .debug_ranges  0x000004f0       0xb8 dbg/qf_ps.o
+ .debug_ranges  0x000005a8       0x20 dbg/qf_qact.o
+ .debug_ranges  0x000005c8       0xa8 dbg/qf_time.o
+ .debug_ranges  0x00000670      0x190 dbg/qf_port.o
+ .debug_ranges  0x00000800      0x408 dbg/tasks.o
+ .debug_ranges  0x00000c08      0x238 dbg/queue.o
+ .debug_ranges  0x00000e40       0x30 dbg/list.o
+ .debug_ranges  0x00000e70       0x88 dbg/port.o
+
+.debug_line     0x00000000     0xa469
+ .debug_line    0x00000000      0x904 dbg/bsp.o
+ .debug_line    0x00000904       0x6e dbg/main.o
+ .debug_line    0x00000972      0x439 dbg/philo.o
+ .debug_line    0x00000dab      0x81b dbg/table.o
+ .debug_line    0x000015c6      0x192 dbg/startup_stm32h743xx.o
+ .debug_line    0x00001758      0x47c dbg/system_stm32h7xx.o
+ .debug_line    0x00001bd4      0x44f dbg/stm32h7xx_nucleo_144.o
+ .debug_line    0x00002023      0x7b7 dbg/stm32h7xx_hal_cortex.o
+ .debug_line    0x000027da      0x74c dbg/stm32h7xx_hal_gpio.o
+ .debug_line    0x00002f26      0x7e8 dbg/qep_hsm.o
+ .debug_line    0x0000370e      0x293 dbg/qf_act.o
+ .debug_line    0x000039a1      0x455 dbg/qf_dyn.o
+ .debug_line    0x00003df6      0x39e dbg/qf_mem.o
+ .debug_line    0x00004194      0x667 dbg/qf_ps.o
+ .debug_line    0x000047fb      0x358 dbg/qf_qact.o
+ .debug_line    0x00004b53      0x59a dbg/qf_time.o
+ .debug_line    0x000050ed      0xd2b dbg/qf_port.o
+ .debug_line    0x00005e18     0x236c dbg/tasks.o
+ .debug_line    0x00008184     0x1a2c dbg/queue.o
+ .debug_line    0x00009bb0      0x32c dbg/list.o
+ .debug_line    0x00009edc      0x58d dbg/port.o
+
+.debug_str      0x00000000     0x3f1b
+ .debug_str     0x00000000     0x14af dbg/bsp.o
+                               0x15ae (size before relaxing)
+ .debug_str     0x000014af       0x1e dbg/main.o
+                                0x1a8 (size before relaxing)
+ .debug_str     0x000014cd      0x12d dbg/philo.o
+                                0x76d (size before relaxing)
+ .debug_str     0x000015fa       0x6b dbg/table.o
+                                0x723 (size before relaxing)
+ .debug_str     0x00001665      0x14a dbg/startup_stm32h743xx.o
+                                0x23f (size before relaxing)
+ .debug_str     0x000017af      0x43a dbg/system_stm32h7xx.o
+                                0x771 (size before relaxing)
+ .debug_str     0x00001be9      0x23d dbg/stm32h7xx_nucleo_144.o
+                                0xee0 (size before relaxing)
+ .debug_str     0x00001e26      0x3ae dbg/stm32h7xx_hal_cortex.o
+                               0x1060 (size before relaxing)
+ .debug_str     0x000021d4      0x237 dbg/stm32h7xx_hal_gpio.o
+                                0x6e5 (size before relaxing)
+ .debug_str     0x0000240b       0xdd dbg/qep_hsm.o
+                                0x4f8 (size before relaxing)
+ .debug_str     0x000024e8       0xb4 dbg/qf_act.o
+                                0x614 (size before relaxing)
+ .debug_str     0x0000259c       0xf3 dbg/qf_dyn.o
+                                0x3cb (size before relaxing)
+ .debug_str     0x0000268f       0x3a dbg/qf_mem.o
+                                0x2e1 (size before relaxing)
+ .debug_str     0x000026c9      0x111 dbg/qf_ps.o
+                                0x7b2 (size before relaxing)
+ .debug_str     0x000027da       0x5a dbg/qf_qact.o
+                                0x608 (size before relaxing)
+ .debug_str     0x00002834       0xb3 dbg/qf_time.o
+                                0x6ff (size before relaxing)
+ .debug_str     0x000028e7      0x1b4 dbg/qf_port.o
+                                0xa61 (size before relaxing)
+ .debug_str     0x00002a9b      0xc90 dbg/tasks.o
+                               0x1156 (size before relaxing)
+ .debug_str     0x0000372b      0x5d7 dbg/queue.o
+                                0xc65 (size before relaxing)
+ .debug_str     0x00003d02       0x71 dbg/list.o
+                                0x2ed (size before relaxing)
+ .debug_str     0x00003d73      0x1a8 dbg/port.o
+                                0x491 (size before relaxing)
+
+.debug_frame    0x00000000     0x17dc
+ .debug_frame   0x00000000      0x1c8 dbg/bsp.o
+ .debug_frame   0x000001c8       0x28 dbg/main.o
+ .debug_frame   0x000001f0       0x9c dbg/philo.o
+ .debug_frame   0x0000028c       0xa0 dbg/table.o
+ .debug_frame   0x0000032c       0x80 dbg/startup_stm32h743xx.o
+ .debug_frame   0x000003ac       0x40 dbg/system_stm32h7xx.o
+ .debug_frame   0x000003ec       0xfc dbg/stm32h7xx_nucleo_144.o
+ .debug_frame   0x000004e8      0x158 dbg/stm32h7xx_hal_cortex.o
+ .debug_frame   0x00000640       0xf4 dbg/stm32h7xx_hal_gpio.o
+ .debug_frame   0x00000734       0xec dbg/qep_hsm.o
+ .debug_frame   0x00000820       0x30 dbg/qf_act.o
+ .debug_frame   0x00000850       0xc8 dbg/qf_dyn.o
+ .debug_frame   0x00000918       0x68 dbg/qf_mem.o
+ .debug_frame   0x00000980       0xa0 dbg/qf_ps.o
+ .debug_frame   0x00000a20       0x60 dbg/qf_qact.o
+ .debug_frame   0x00000a80       0xf8 dbg/qf_time.o
+ .debug_frame   0x00000b78      0x1f8 dbg/qf_port.o
+ .debug_frame   0x00000d70      0x4ac dbg/tasks.o
+ .debug_frame   0x0000121c      0x3b0 dbg/queue.o
+ .debug_frame   0x000015cc       0x70 dbg/list.o
+ .debug_frame   0x0000163c      0x12c dbg/port.o
+ .debug_frame   0x00001768       0x2c c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00001794       0x28 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x000017bc       0x20 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memset.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC3_IRQHandler                                   dbg/startup_stm32h743xx.o
+ADC_IRQHandler                                    dbg/startup_stm32h743xx.o
+AO_Philo                                          dbg/philo.o
+                                                  dbg/bsp.o
+AO_Table                                          dbg/table.o
+                                                  dbg/philo.o
+                                                  dbg/bsp.o
+BDMA_Channel0_IRQHandler                          dbg/startup_stm32h743xx.o
+BDMA_Channel1_IRQHandler                          dbg/startup_stm32h743xx.o
+BDMA_Channel2_IRQHandler                          dbg/startup_stm32h743xx.o
+BDMA_Channel3_IRQHandler                          dbg/startup_stm32h743xx.o
+BDMA_Channel4_IRQHandler                          dbg/startup_stm32h743xx.o
+BDMA_Channel5_IRQHandler                          dbg/startup_stm32h743xx.o
+BDMA_Channel6_IRQHandler                          dbg/startup_stm32h743xx.o
+BDMA_Channel7_IRQHandler                          dbg/startup_stm32h743xx.o
+BSP_GetVersion                                    dbg/stm32h7xx_nucleo_144.o
+BSP_LED_DeInit                                    dbg/stm32h7xx_nucleo_144.o
+BSP_LED_Init                                      dbg/stm32h7xx_nucleo_144.o
+                                                  dbg/bsp.o
+BSP_LED_Off                                       dbg/stm32h7xx_nucleo_144.o
+                                                  dbg/bsp.o
+BSP_LED_On                                        dbg/stm32h7xx_nucleo_144.o
+                                                  dbg/bsp.o
+BSP_LED_Toggle                                    dbg/stm32h7xx_nucleo_144.o
+BSP_PB_DeInit                                     dbg/stm32h7xx_nucleo_144.o
+BSP_PB_GetState                                   dbg/stm32h7xx_nucleo_144.o
+                                                  dbg/bsp.o
+BSP_PB_Init                                       dbg/stm32h7xx_nucleo_144.o
+                                                  dbg/bsp.o
+BSP_displayPaused                                 dbg/bsp.o
+                                                  dbg/table.o
+BSP_displayPhilStat                               dbg/bsp.o
+                                                  dbg/table.o
+BSP_init                                          dbg/bsp.o
+                                                  dbg/main.o
+BSP_ledOff                                        dbg/bsp.o
+BSP_ledOn                                         dbg/bsp.o
+BSP_random                                        dbg/bsp.o
+                                                  dbg/philo.o
+BSP_randomSeed                                    dbg/bsp.o
+BSP_start                                         dbg/bsp.o
+                                                  dbg/main.o
+BSP_terminate                                     dbg/bsp.o
+BUTTON_IRQn                                       dbg/stm32h7xx_nucleo_144.o
+BUTTON_PIN                                        dbg/stm32h7xx_nucleo_144.o
+BUTTON_PORT                                       dbg/stm32h7xx_nucleo_144.o
+BusFault_Handler                                  dbg/startup_stm32h743xx.o
+CEC_IRQHandler                                    dbg/startup_stm32h743xx.o
+COMP1_IRQHandler                                  dbg/startup_stm32h743xx.o
+CRS_IRQHandler                                    dbg/startup_stm32h743xx.o
+D1CorePrescTable                                  dbg/system_stm32h7xx.o
+                                                  dbg/stm32h7xx_hal_rcc_ex.o
+                                                  dbg/stm32h7xx_hal_rcc.o
+                                                  dbg/stm32h7xx_hal.o
+DCMI_IRQHandler                                   dbg/startup_stm32h743xx.o
+DFSDM1_FLT0_IRQHandler                            dbg/startup_stm32h743xx.o
+DFSDM1_FLT1_IRQHandler                            dbg/startup_stm32h743xx.o
+DFSDM1_FLT2_IRQHandler                            dbg/startup_stm32h743xx.o
+DFSDM1_FLT3_IRQHandler                            dbg/startup_stm32h743xx.o
+DMA1_Stream0_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA1_Stream1_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA1_Stream2_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA1_Stream3_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA1_Stream4_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA1_Stream5_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA1_Stream6_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA1_Stream7_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA2D_IRQHandler                                  dbg/startup_stm32h743xx.o
+DMA2_Stream0_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA2_Stream1_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA2_Stream2_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA2_Stream3_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA2_Stream4_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA2_Stream5_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA2_Stream6_IRQHandler                           dbg/startup_stm32h743xx.o
+DMA2_Stream7_IRQHandler                           dbg/startup_stm32h743xx.o
+DMAMUX1_OVR_IRQHandler                            dbg/startup_stm32h743xx.o
+DMAMUX2_OVR_IRQHandler                            dbg/startup_stm32h743xx.o
+DebugMon_Handler                                  dbg/startup_stm32h743xx.o
+Default_Handler                                   dbg/startup_stm32h743xx.o
+ETH_IRQHandler                                    dbg/startup_stm32h743xx.o
+ETH_WKUP_IRQHandler                               dbg/startup_stm32h743xx.o
+EXTI0_IRQHandler                                  dbg/bsp.o
+EXTI15_10_IRQHandler                              dbg/startup_stm32h743xx.o
+EXTI1_IRQHandler                                  dbg/startup_stm32h743xx.o
+EXTI2_IRQHandler                                  dbg/startup_stm32h743xx.o
+EXTI3_IRQHandler                                  dbg/startup_stm32h743xx.o
+EXTI4_IRQHandler                                  dbg/startup_stm32h743xx.o
+EXTI9_5_IRQHandler                                dbg/startup_stm32h743xx.o
+FDCAN1_IT0_IRQHandler                             dbg/startup_stm32h743xx.o
+FDCAN1_IT1_IRQHandler                             dbg/startup_stm32h743xx.o
+FDCAN2_IT0_IRQHandler                             dbg/startup_stm32h743xx.o
+FDCAN2_IT1_IRQHandler                             dbg/startup_stm32h743xx.o
+FDCAN_CAL_IRQHandler                              dbg/startup_stm32h743xx.o
+FLASH_IRQHandler                                  dbg/startup_stm32h743xx.o
+FMC_IRQHandler                                    dbg/startup_stm32h743xx.o
+FPU_IRQHandler                                    dbg/startup_stm32h743xx.o
+GPIO_PIN                                          dbg/stm32h7xx_nucleo_144.o
+GPIO_PORT                                         dbg/stm32h7xx_nucleo_144.o
+HAL_DBGMCU_DisableDBGSleepMode                    dbg/stm32h7xx_hal.o
+HAL_DBGMCU_DisableDBGStandbyMode                  dbg/stm32h7xx_hal.o
+HAL_DBGMCU_DisableDBGStopMode                     dbg/stm32h7xx_hal.o
+HAL_DBGMCU_EnableDBGSleepMode                     dbg/stm32h7xx_hal.o
+HAL_DBGMCU_EnableDBGStandbyMode                   dbg/stm32h7xx_hal.o
+HAL_DBGMCU_EnableDBGStopMode                      dbg/stm32h7xx_hal.o
+HAL_DMA_Abort                                     dbg/stm32h7xx_hal_uart.o
+HAL_DMA_Abort_IT                                  dbg/stm32h7xx_hal_uart.o
+HAL_DMA_GetError                                  dbg/stm32h7xx_hal_uart.o
+HAL_DMA_Start_IT                                  dbg/stm32h7xx_hal_uart.o
+HAL_DeInit                                        dbg/stm32h7xx_hal.o
+HAL_Delay                                         dbg/stm32h7xx_hal.o
+HAL_DisableCompensationCell                       dbg/stm32h7xx_hal.o
+HAL_EXTI_D1_ClearFlag                             dbg/stm32h7xx_hal.o
+HAL_EXTI_D1_EventInputConfig                      dbg/stm32h7xx_hal.o
+HAL_EXTI_D3_EventInputConfig                      dbg/stm32h7xx_hal.o
+HAL_EXTI_EdgeConfig                               dbg/stm32h7xx_hal.o
+HAL_EXTI_GenerateSWInterrupt                      dbg/stm32h7xx_hal.o
+HAL_EnableCompensationCell                        dbg/stm32h7xx_hal.o
+HAL_GPIO_DeInit                                   dbg/stm32h7xx_hal_gpio.o
+                                                  dbg/stm32h7xx_hal_msp.o
+                                                  dbg/stm32h7xx_nucleo_144.o
+HAL_GPIO_EXTI_Callback                            dbg/stm32h7xx_hal_gpio.o
+HAL_GPIO_EXTI_IRQHandler                          dbg/stm32h7xx_hal_gpio.o
+HAL_GPIO_Init                                     dbg/stm32h7xx_hal_gpio.o
+                                                  dbg/stm32h7xx_hal_msp.o
+                                                  dbg/stm32h7xx_hal_rcc.o
+                                                  dbg/stm32h7xx_nucleo_144.o
+HAL_GPIO_LockPin                                  dbg/stm32h7xx_hal_gpio.o
+HAL_GPIO_ReadPin                                  dbg/stm32h7xx_hal_gpio.o
+                                                  dbg/stm32h7xx_nucleo_144.o
+HAL_GPIO_TogglePin                                dbg/stm32h7xx_hal_gpio.o
+                                                  dbg/stm32h7xx_nucleo_144.o
+HAL_GPIO_WritePin                                 dbg/stm32h7xx_hal_gpio.o
+                                                  dbg/stm32h7xx_nucleo_144.o
+HAL_GetCurrentCPUID                               dbg/stm32h7xx_hal_cortex.o
+HAL_GetDEVID                                      dbg/stm32h7xx_hal.o
+HAL_GetFMCMemorySwappingConfig                    dbg/stm32h7xx_hal.o
+HAL_GetHalVersion                                 dbg/stm32h7xx_hal.o
+HAL_GetREVID                                      dbg/stm32h7xx_hal.o
+                                                  dbg/stm32h7xx_hal_rcc_ex.o
+                                                  dbg/stm32h7xx_hal_rcc.o
+HAL_GetTick                                       dbg/stm32h7xx_hal.o
+                                                  dbg/stm32h7xx_hal_uart.o
+                                                  dbg/stm32h7xx_hal_rcc_ex.o
+                                                  dbg/stm32h7xx_hal_rcc.o
+                                                  dbg/stm32h7xx_hal_pwr_ex.o
+HAL_GetTickFreq                                   dbg/stm32h7xx_hal.o
+HAL_GetTickPrio                                   dbg/stm32h7xx_hal.o
+HAL_GetUIDw0                                      dbg/stm32h7xx_hal.o
+HAL_GetUIDw1                                      dbg/stm32h7xx_hal.o
+HAL_GetUIDw2                                      dbg/stm32h7xx_hal.o
+HAL_HalfDuplex_EnableReceiver                     dbg/stm32h7xx_hal_uart.o
+HAL_HalfDuplex_EnableTransmitter                  dbg/stm32h7xx_hal_uart.o
+HAL_HalfDuplex_Init                               dbg/stm32h7xx_hal_uart.o
+HAL_IncTick                                       dbg/stm32h7xx_hal.o
+HAL_Init                                          dbg/stm32h7xx_hal.o
+HAL_InitTick                                      dbg/stm32h7xx_hal_msp.o
+                                                  dbg/stm32h7xx_hal.o
+                                                  dbg/stm32h7xx_hal_rcc.o
+HAL_LIN_Init                                      dbg/stm32h7xx_hal_uart.o
+HAL_LIN_SendBreak                                 dbg/stm32h7xx_hal_uart.o
+HAL_MPU_ConfigRegion                              dbg/stm32h7xx_hal_cortex.o
+HAL_MPU_Disable                                   dbg/stm32h7xx_hal_cortex.o
+HAL_MPU_Enable                                    dbg/stm32h7xx_hal_cortex.o
+HAL_MspDeInit                                     dbg/stm32h7xx_hal.o
+HAL_MspInit                                       dbg/stm32h7xx_hal.o
+HAL_MultiProcessor_DisableMuteMode                dbg/stm32h7xx_hal_uart.o
+HAL_MultiProcessor_EnableMuteMode                 dbg/stm32h7xx_hal_uart.o
+HAL_MultiProcessor_EnterMuteMode                  dbg/stm32h7xx_hal_uart.o
+HAL_MultiProcessor_Init                           dbg/stm32h7xx_hal_uart.o
+HAL_NVIC_ClearPendingIRQ                          dbg/stm32h7xx_hal_cortex.o
+HAL_NVIC_DisableIRQ                               dbg/stm32h7xx_hal_cortex.o
+                                                  dbg/stm32h7xx_nucleo_144.o
+HAL_NVIC_EnableIRQ                                dbg/stm32h7xx_hal_cortex.o
+                                                  dbg/stm32h7xx_nucleo_144.o
+HAL_NVIC_GetActive                                dbg/stm32h7xx_hal_cortex.o
+HAL_NVIC_GetPendingIRQ                            dbg/stm32h7xx_hal_cortex.o
+HAL_NVIC_GetPriority                              dbg/stm32h7xx_hal_cortex.o
+HAL_NVIC_GetPriorityGrouping                      dbg/stm32h7xx_hal_cortex.o
+HAL_NVIC_SetPendingIRQ                            dbg/stm32h7xx_hal_cortex.o
+HAL_NVIC_SetPriority                              dbg/stm32h7xx_hal_cortex.o
+                                                  dbg/stm32h7xx_hal.o
+                                                  dbg/stm32h7xx_nucleo_144.o
+HAL_NVIC_SetPriorityGrouping                      dbg/stm32h7xx_hal_cortex.o
+                                                  dbg/stm32h7xx_hal.o
+HAL_NVIC_SystemReset                              dbg/stm32h7xx_hal_cortex.o
+HAL_PWREx_AVDCallback                             dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_ClearPendingEvent                       dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_ClearWakeupFlag                         dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_ConfigAVD                               dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_ConfigD3Domain                          dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_ConfigSupply                            dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_ControlStopModeVoltageScaling           dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_ControlVoltageScaling                   dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_DisableAVD                              dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_DisableBatteryCharging                  dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_DisableBkUpReg                          dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_DisableFlashPowerDown                   dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_DisableMonitoring                       dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_DisableUSBReg                           dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_DisableUSBVoltageDetector               dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_DisableWakeUpPin                        dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnableAVD                               dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnableBatteryCharging                   dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnableBkUpReg                           dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnableFlashPowerDown                    dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnableMonitoring                        dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnableUSBReg                            dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnableUSBVoltageDetector                dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnableWakeUpPin                         dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnterSTANDBYMode                        dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_EnterSTOPMode                           dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_GetStopModeVoltageRange                 dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_GetSupplyConfig                         dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_GetTemperatureLevel                     dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_GetVBATLevel                            dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_GetVoltageRange                         dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_GetWakeupFlag                           dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_PVD_AVD_IRQHandler                      dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_WAKEUP_PIN_IRQHandler                   dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_WKUP1_Callback                          dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_WKUP2_Callback                          dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_WKUP3_Callback                          dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_WKUP4_Callback                          dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_WKUP5_Callback                          dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWREx_WKUP6_Callback                          dbg/stm32h7xx_hal_pwr_ex.o
+HAL_PWR_PVDCallback                               dbg/stm32h7xx_hal_pwr_ex.o
+HAL_RCCEx_CRSConfig                               dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_CRSGetSynchronizationInfo               dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_CRSSoftwareSynchronizationGenerate      dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_CRSWaitSynchronization                  dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_CRS_ErrorCallback                       dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_CRS_ExpectedSyncCallback                dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_CRS_IRQHandler                          dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_CRS_SyncOkCallback                      dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_CRS_SyncWarnCallback                    dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_DisableLSECSS                           dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_EnableLSECSS                            dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_EnableLSECSS_IT                         dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_GetD1PCLK1Freq                          dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_GetD1SysClockFreq                       dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_GetD3PCLK1Freq                          dbg/stm32h7xx_hal_rcc_ex.o
+                                                  dbg/stm32h7xx_hal_uart.o
+HAL_RCCEx_GetPLL1ClockFreq                        dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_GetPLL2ClockFreq                        dbg/stm32h7xx_hal_rcc_ex.o
+                                                  dbg/stm32h7xx_hal_uart.o
+HAL_RCCEx_GetPLL3ClockFreq                        dbg/stm32h7xx_hal_rcc_ex.o
+                                                  dbg/stm32h7xx_hal_uart.o
+HAL_RCCEx_GetPeriphCLKConfig                      dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_GetPeriphCLKFreq                        dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_KerWakeUpStopCLKConfig                  dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_LSECSS_Callback                         dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_LSECSS_IRQHandler                       dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_PeriphCLKConfig                         dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_WWDGxSysResetConfig                     dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCCEx_WakeUpStopCLKConfig                     dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCC_CSSCallback                               dbg/stm32h7xx_hal_rcc.o
+HAL_RCC_ClockConfig                               dbg/stm32h7xx_hal_rcc.o
+HAL_RCC_DeInit                                    dbg/stm32h7xx_hal_rcc.o
+HAL_RCC_DisableCSS                                dbg/stm32h7xx_hal_rcc.o
+HAL_RCC_EnableCSS                                 dbg/stm32h7xx_hal_rcc.o
+HAL_RCC_GetClockConfig                            dbg/stm32h7xx_hal_rcc.o
+HAL_RCC_GetHCLKFreq                               dbg/stm32h7xx_hal_rcc.o
+                                                  dbg/stm32h7xx_hal_rcc_ex.o
+HAL_RCC_GetOscConfig                              dbg/stm32h7xx_hal_rcc.o
+HAL_RCC_GetPCLK1Freq                              dbg/stm32h7xx_hal_rcc.o
+                                                  dbg/stm32h7xx_hal_uart.o
+HAL_RCC_GetPCLK2Freq                              dbg/stm32h7xx_hal_rcc.o
+                                                  dbg/stm32h7xx_hal_uart.o
+HAL_RCC_GetSysClockFreq                           dbg/stm32h7xx_hal_rcc.o
+                                                  dbg/stm32h7xx_hal_rcc_ex.o
+                                                  dbg/stm32h7xx_hal.o
+HAL_RCC_MCOConfig                                 dbg/stm32h7xx_hal_rcc.o
+HAL_RCC_NMI_IRQHandler                            dbg/stm32h7xx_hal_rcc.o
+HAL_RCC_OscConfig                                 dbg/stm32h7xx_hal_rcc.o
+HAL_ResumeTick                                    dbg/stm32h7xx_hal.o
+HAL_SYSCFG_AnalogSwitchConfig                     dbg/stm32h7xx_hal.o
+HAL_SYSCFG_CM7BootAddConfig                       dbg/stm32h7xx_hal.o
+HAL_SYSCFG_CompensationCodeConfig                 dbg/stm32h7xx_hal.o
+HAL_SYSCFG_CompensationCodeSelect                 dbg/stm32h7xx_hal.o
+HAL_SYSCFG_DisableBOOST                           dbg/stm32h7xx_hal.o
+HAL_SYSCFG_DisableIOSpeedOptimize                 dbg/stm32h7xx_hal.o
+HAL_SYSCFG_DisableVREFBUF                         dbg/stm32h7xx_hal.o
+HAL_SYSCFG_ETHInterfaceSelect                     dbg/stm32h7xx_hal.o
+HAL_SYSCFG_EnableBOOST                            dbg/stm32h7xx_hal.o
+HAL_SYSCFG_EnableIOSpeedOptimize                  dbg/stm32h7xx_hal.o
+HAL_SYSCFG_EnableVREFBUF                          dbg/stm32h7xx_hal.o
+HAL_SYSCFG_VREFBUF_HighImpedanceConfig            dbg/stm32h7xx_hal.o
+HAL_SYSCFG_VREFBUF_TrimmingConfig                 dbg/stm32h7xx_hal.o
+HAL_SYSCFG_VREFBUF_VoltageScalingConfig           dbg/stm32h7xx_hal.o
+HAL_SYSTICK_CLKSourceConfig                       dbg/stm32h7xx_hal_cortex.o
+HAL_SYSTICK_Callback                              dbg/stm32h7xx_hal_cortex.o
+HAL_SYSTICK_Config                                dbg/stm32h7xx_hal_cortex.o
+                                                  dbg/stm32h7xx_hal.o
+HAL_SYSTICK_IRQHandler                            dbg/stm32h7xx_hal_cortex.o
+HAL_SetFMCMemorySwappingConfig                    dbg/stm32h7xx_hal.o
+HAL_SetTickFreq                                   dbg/stm32h7xx_hal.o
+HAL_SuspendTick                                   dbg/stm32h7xx_hal.o
+HAL_UARTEx_RxEventCallback                        dbg/stm32h7xx_hal_uart.o
+HAL_UARTEx_RxFifoFullCallback                     dbg/stm32h7xx_hal_msp.o
+                                                  dbg/stm32h7xx_hal_uart.o
+HAL_UARTEx_TxFifoEmptyCallback                    dbg/stm32h7xx_hal_msp.o
+                                                  dbg/stm32h7xx_hal_uart.o
+HAL_UARTEx_WakeupCallback                         dbg/stm32h7xx_hal_msp.o
+                                                  dbg/stm32h7xx_hal_uart.o
+HAL_UART_Abort                                    dbg/stm32h7xx_hal_uart.o
+HAL_UART_AbortCpltCallback                        dbg/stm32h7xx_hal_uart.o
+HAL_UART_AbortReceive                             dbg/stm32h7xx_hal_uart.o
+HAL_UART_AbortReceiveCpltCallback                 dbg/stm32h7xx_hal_uart.o
+HAL_UART_AbortReceive_IT                          dbg/stm32h7xx_hal_uart.o
+HAL_UART_AbortTransmit                            dbg/stm32h7xx_hal_uart.o
+HAL_UART_AbortTransmitCpltCallback                dbg/stm32h7xx_hal_uart.o
+HAL_UART_AbortTransmit_IT                         dbg/stm32h7xx_hal_uart.o
+HAL_UART_Abort_IT                                 dbg/stm32h7xx_hal_uart.o
+HAL_UART_DMAPause                                 dbg/stm32h7xx_hal_uart.o
+HAL_UART_DMAResume                                dbg/stm32h7xx_hal_uart.o
+HAL_UART_DMAStop                                  dbg/stm32h7xx_hal_uart.o
+HAL_UART_DeInit                                   dbg/stm32h7xx_hal_uart.o
+HAL_UART_DisableReceiverTimeout                   dbg/stm32h7xx_hal_uart.o
+HAL_UART_EnableReceiverTimeout                    dbg/stm32h7xx_hal_uart.o
+HAL_UART_ErrorCallback                            dbg/stm32h7xx_hal_uart.o
+HAL_UART_GetError                                 dbg/stm32h7xx_hal_uart.o
+HAL_UART_GetState                                 dbg/stm32h7xx_hal_uart.o
+HAL_UART_IRQHandler                               dbg/stm32h7xx_hal_uart.o
+HAL_UART_Init                                     dbg/stm32h7xx_hal_uart.o
+HAL_UART_MspDeInit                                dbg/stm32h7xx_hal_msp.o
+HAL_UART_MspInit                                  dbg/stm32h7xx_hal_msp.o
+HAL_UART_Receive                                  dbg/stm32h7xx_hal_uart.o
+HAL_UART_Receive_DMA                              dbg/stm32h7xx_hal_uart.o
+HAL_UART_Receive_IT                               dbg/stm32h7xx_hal_uart.o
+HAL_UART_ReceiverTimeout_Config                   dbg/stm32h7xx_hal_uart.o
+HAL_UART_RxCpltCallback                           dbg/stm32h7xx_hal_msp.o
+HAL_UART_RxHalfCpltCallback                       dbg/stm32h7xx_hal_uart.o
+HAL_UART_Transmit                                 dbg/stm32h7xx_hal_uart.o
+HAL_UART_Transmit_DMA                             dbg/stm32h7xx_hal_uart.o
+HAL_UART_Transmit_IT                              dbg/stm32h7xx_hal_uart.o
+HAL_UART_TxCpltCallback                           dbg/stm32h7xx_hal_uart.o
+HAL_UART_TxHalfCpltCallback                       dbg/stm32h7xx_hal_uart.o
+HRTIM1_FLT_IRQHandler                             dbg/startup_stm32h743xx.o
+HRTIM1_Master_IRQHandler                          dbg/startup_stm32h743xx.o
+HRTIM1_TIMA_IRQHandler                            dbg/startup_stm32h743xx.o
+HRTIM1_TIMB_IRQHandler                            dbg/startup_stm32h743xx.o
+HRTIM1_TIMC_IRQHandler                            dbg/startup_stm32h743xx.o
+HRTIM1_TIMD_IRQHandler                            dbg/startup_stm32h743xx.o
+HRTIM1_TIME_IRQHandler                            dbg/startup_stm32h743xx.o
+HSEM1_IRQHandler                                  dbg/startup_stm32h743xx.o
+HardFault_Handler                                 dbg/startup_stm32h743xx.o
+I2C1_ER_IRQHandler                                dbg/startup_stm32h743xx.o
+I2C1_EV_IRQHandler                                dbg/startup_stm32h743xx.o
+I2C2_ER_IRQHandler                                dbg/startup_stm32h743xx.o
+I2C2_EV_IRQHandler                                dbg/startup_stm32h743xx.o
+I2C3_ER_IRQHandler                                dbg/startup_stm32h743xx.o
+I2C3_EV_IRQHandler                                dbg/startup_stm32h743xx.o
+I2C4_ER_IRQHandler                                dbg/startup_stm32h743xx.o
+I2C4_EV_IRQHandler                                dbg/startup_stm32h743xx.o
+JPEG_IRQHandler                                   dbg/startup_stm32h743xx.o
+LPTIM1_IRQHandler                                 dbg/startup_stm32h743xx.o
+LPTIM2_IRQHandler                                 dbg/startup_stm32h743xx.o
+LPTIM3_IRQHandler                                 dbg/startup_stm32h743xx.o
+LPTIM4_IRQHandler                                 dbg/startup_stm32h743xx.o
+LPTIM5_IRQHandler                                 dbg/startup_stm32h743xx.o
+LPUART1_IRQHandler                                dbg/startup_stm32h743xx.o
+LTDC_ER_IRQHandler                                dbg/startup_stm32h743xx.o
+LTDC_IRQHandler                                   dbg/startup_stm32h743xx.o
+MDIOS_IRQHandler                                  dbg/startup_stm32h743xx.o
+MDIOS_WKUP_IRQHandler                             dbg/startup_stm32h743xx.o
+MDMA_IRQHandler                                   dbg/startup_stm32h743xx.o
+MemManage_Handler                                 dbg/startup_stm32h743xx.o
+NMI_Handler                                       dbg/startup_stm32h743xx.o
+OTG_FS_EP1_IN_IRQHandler                          dbg/startup_stm32h743xx.o
+OTG_FS_EP1_OUT_IRQHandler                         dbg/startup_stm32h743xx.o
+OTG_FS_IRQHandler                                 dbg/startup_stm32h743xx.o
+OTG_FS_WKUP_IRQHandler                            dbg/startup_stm32h743xx.o
+OTG_HS_EP1_IN_IRQHandler                          dbg/startup_stm32h743xx.o
+OTG_HS_EP1_OUT_IRQHandler                         dbg/startup_stm32h743xx.o
+OTG_HS_IRQHandler                                 dbg/startup_stm32h743xx.o
+OTG_HS_WKUP_IRQHandler                            dbg/startup_stm32h743xx.o
+PVD_AVD_IRQHandler                                dbg/startup_stm32h743xx.o
+PendSV_Handler                                    dbg/port.o
+                                                  dbg/startup_stm32h743xx.o
+Philo_ctor                                        dbg/philo.o
+                                                  dbg/bsp.o
+Philo_inst                                        dbg/philo.o
+QActive_ctor                                      dbg/qf_qact.o
+                                                  dbg/table.o
+                                                  dbg/philo.o
+QActive_defer                                     dbg/qf_defer.o
+QActive_flushDeferred                             dbg/qf_defer.o
+QActive_get_                                      dbg/qf_port.o
+QActive_maxPubSignal_                             dbg/qf_ps.o
+                                                  dbg/qf_port.o
+QActive_postFromISR_                              dbg/qf_port.o
+                                                  dbg/bsp.o
+QActive_postLIFO_                                 dbg/qf_port.o
+                                                  dbg/qf_defer.o
+QActive_post_                                     dbg/qf_port.o
+                                                  dbg/qf_time.o
+                                                  dbg/qf_ps.o
+                                                  dbg/philo.o
+QActive_psInit                                    dbg/qf_ps.o
+                                                  dbg/bsp.o
+QActive_publishFromISR_                           dbg/qf_port.o
+                                                  dbg/bsp.o
+QActive_publish_                                  dbg/qf_ps.o
+                                                  dbg/table.o
+                                                  dbg/philo.o
+QActive_recall                                    dbg/qf_defer.o
+QActive_register_                                 dbg/qf_qact.o
+                                                  dbg/qf_port.o
+QActive_registry_                                 dbg/qf_act.o
+                                                  dbg/qf_port.o
+                                                  dbg/qf_qact.o
+                                                  dbg/qf_ps.o
+QActive_setAttr                                   dbg/qf_port.o
+                                                  dbg/bsp.o
+QActive_start_                                    dbg/qf_port.o
+                                                  dbg/bsp.o
+QActive_subscrList_                               dbg/qf_ps.o
+                                                  dbg/qf_port.o
+QActive_subscribe                                 dbg/qf_ps.o
+                                                  dbg/table.o
+                                                  dbg/philo.o
+QActive_unregister_                               dbg/qf_qact.o
+QActive_unsubscribe                               dbg/qf_ps.o
+QActive_unsubscribeAll                            dbg/qf_ps.o
+QEQueue_dummy                                     dbg/qf_qeq.o
+QEQueue_get                                       dbg/qf_qeq.o
+                                                  dbg/qf_defer.o
+QEQueue_init                                      dbg/qf_qeq.o
+QEQueue_post                                      dbg/qf_qeq.o
+                                                  dbg/qf_defer.o
+QEQueue_postLIFO                                  dbg/qf_qeq.o
+QEvt_reserved_                                    dbg/qep_hsm.o
+QF_LOG2                                           dbg/qf_act.o
+                                                  dbg/qf_port.o
+                                                  dbg/qf_ps.o
+QF_bzero_                                         dbg/qf_act.o
+                                                  dbg/qf_qmact.o
+                                                  dbg/qf_qact.o
+QF_deleteRef_                                     dbg/qf_dyn.o
+QF_gc                                             dbg/qf_dyn.o
+                                                  dbg/qf_port.o
+                                                  dbg/qf_ps.o
+                                                  dbg/qf_defer.o
+QF_gcFromISR                                      dbg/qf_port.o
+QF_getPoolMin                                     dbg/qf_dyn.o
+QF_init                                           dbg/qf_port.o
+                                                  dbg/main.o
+QF_newRef_                                        dbg/qf_dyn.o
+QF_newXFromISR_                                   dbg/qf_port.o
+                                                  dbg/bsp.o
+QF_newX_                                          dbg/qf_dyn.o
+                                                  dbg/table.o
+                                                  dbg/philo.o
+QF_onCleanup                                      dbg/bsp.o
+                                                  dbg/qf_port.o
+QF_onStartup                                      dbg/bsp.o
+                                                  dbg/qf_port.o
+QF_poolGetMaxBlockSize                            dbg/qf_dyn.o
+QF_poolInit                                       dbg/qf_dyn.o
+                                                  dbg/bsp.o
+QF_priv_                                          dbg/qf_act.o
+                                                  dbg/qf_port.o
+                                                  dbg/qf_dyn.o
+QF_run                                            dbg/qf_port.o
+                                                  dbg/main.o
+QF_stop                                           dbg/qf_port.o
+QHsm_childState                                   dbg/qep_hsm.o
+QHsm_ctor                                         dbg/qep_hsm.o
+                                                  dbg/qf_qact.o
+QHsm_dispatch_                                    dbg/qep_hsm.o
+                                                  dbg/qf_qact.o
+QHsm_init_                                        dbg/qep_hsm.o
+                                                  dbg/qf_qact.o
+QHsm_isIn                                         dbg/qep_hsm.o
+QHsm_top                                          dbg/qep_hsm.o
+                                                  dbg/table.o
+                                                  dbg/philo.o
+QHsm_tran_                                        dbg/qep_hsm.o
+QMActive_ctor                                     dbg/qf_qmact.o
+QMPool_get                                        dbg/qf_mem.o
+                                                  dbg/qf_dyn.o
+QMPool_getFromISR                                 dbg/qf_port.o
+QMPool_init                                       dbg/qf_mem.o
+                                                  dbg/qf_dyn.o
+QMPool_put                                        dbg/qf_mem.o
+                                                  dbg/qf_dyn.o
+QMPool_putFromISR                                 dbg/qf_port.o
+QMsm_childStateObj                                dbg/qep_msm.o
+QMsm_ctor                                         dbg/qep_msm.o
+                                                  dbg/qf_qmact.o
+QMsm_dispatch_                                    dbg/qep_msm.o
+                                                  dbg/qf_qmact.o
+QMsm_enterHistory_                                dbg/qep_msm.o
+QMsm_execTatbl_                                   dbg/qep_msm.o
+QMsm_exitToTranSource_                            dbg/qep_msm.o
+QMsm_init_                                        dbg/qep_msm.o
+                                                  dbg/qf_qmact.o
+QMsm_isInState                                    dbg/qep_msm.o
+QP_versionStr                                     dbg/qep_hsm.o
+QTimeEvt_armX                                     dbg/qf_time.o
+                                                  dbg/philo.o
+QTimeEvt_ctorX                                    dbg/qf_time.o
+                                                  dbg/philo.o
+QTimeEvt_currCtr                                  dbg/qf_time.o
+QTimeEvt_disarm                                   dbg/qf_time.o
+                                                  dbg/philo.o
+QTimeEvt_noActive                                 dbg/qf_time.o
+QTimeEvt_rearm                                    dbg/qf_time.o
+QTimeEvt_tickFromISR_                             dbg/qf_port.o
+                                                  dbg/bsp.o
+QTimeEvt_tick_                                    dbg/qf_time.o
+QTimeEvt_timeEvtHead_                             dbg/qf_time.o
+                                                  dbg/qf_port.o
+QTimeEvt_wasDisarmed                              dbg/qf_time.o
+QUADSPI_IRQHandler                                dbg/startup_stm32h743xx.o
+Q_BUILD_DATE                                      dbg/qstamp.o
+Q_BUILD_TIME                                      dbg/qstamp.o
+Q_onError                                         dbg/bsp.o
+                                                  dbg/qf_port.o
+                                                  dbg/qf_time.o
+                                                  dbg/qf_qeq.o
+                                                  dbg/qf_qact.o
+                                                  dbg/qf_ps.o
+                                                  dbg/qf_mem.o
+                                                  dbg/qf_dyn.o
+                                                  dbg/qf_defer.o
+                                                  dbg/qep_msm.o
+                                                  dbg/qep_hsm.o
+                                                  dbg/table.o
+                                                  dbg/philo.o
+RCC_IRQHandler                                    dbg/startup_stm32h743xx.o
+RNG_IRQHandler                                    dbg/startup_stm32h743xx.o
+RTC_Alarm_IRQHandler                              dbg/startup_stm32h743xx.o
+RTC_WKUP_IRQHandler                               dbg/startup_stm32h743xx.o
+Reserved123_IRQHandler                            dbg/startup_stm32h743xx.o
+Reserved124_IRQHandler                            dbg/startup_stm32h743xx.o
+Reserved126_IRQHandler                            dbg/startup_stm32h743xx.o
+Reserved143_IRQHandler                            dbg/startup_stm32h743xx.o
+Reserved145_IRQHandler                            dbg/startup_stm32h743xx.o
+Reserved147_IRQHandler                            dbg/startup_stm32h743xx.o
+Reserved148_IRQHandler                            dbg/startup_stm32h743xx.o
+Reserved42_IRQHandler                             dbg/startup_stm32h743xx.o
+Reserved64_IRQHandler                             dbg/startup_stm32h743xx.o
+Reserved65_IRQHandler                             dbg/startup_stm32h743xx.o
+Reserved66_IRQHandler                             dbg/startup_stm32h743xx.o
+Reserved67_IRQHandler                             dbg/startup_stm32h743xx.o
+Reserved79_IRQHandler                             dbg/startup_stm32h743xx.o
+Reset_Handler                                     dbg/startup_stm32h743xx.o
+SAI1_IRQHandler                                   dbg/startup_stm32h743xx.o
+SAI2_IRQHandler                                   dbg/startup_stm32h743xx.o
+SAI3_IRQHandler                                   dbg/startup_stm32h743xx.o
+SAI4_IRQHandler                                   dbg/startup_stm32h743xx.o
+SDMMC1_IRQHandler                                 dbg/startup_stm32h743xx.o
+SDMMC2_IRQHandler                                 dbg/startup_stm32h743xx.o
+SPDIF_RX_IRQHandler                               dbg/startup_stm32h743xx.o
+SPI1_IRQHandler                                   dbg/startup_stm32h743xx.o
+SPI2_IRQHandler                                   dbg/startup_stm32h743xx.o
+SPI3_IRQHandler                                   dbg/startup_stm32h743xx.o
+SPI4_IRQHandler                                   dbg/startup_stm32h743xx.o
+SPI5_IRQHandler                                   dbg/startup_stm32h743xx.o
+SPI6_IRQHandler                                   dbg/startup_stm32h743xx.o
+SVC_Handler                                       dbg/port.o
+                                                  dbg/startup_stm32h743xx.o
+SWPMI1_IRQHandler                                 dbg/startup_stm32h743xx.o
+SysTick_Handler                                   dbg/port.o
+                                                  dbg/startup_stm32h743xx.o
+SystemCoreClock                                   dbg/system_stm32h7xx.o
+                                                  dbg/port.o
+                                                  dbg/stm32h7xx_hal_rcc_ex.o
+                                                  dbg/stm32h7xx_hal_rcc.o
+                                                  dbg/stm32h7xx_hal.o
+SystemCoreClockUpdate                             dbg/system_stm32h7xx.o
+                                                  dbg/bsp.o
+SystemD2Clock                                     dbg/system_stm32h7xx.o
+                                                  dbg/stm32h7xx_hal_rcc_ex.o
+                                                  dbg/stm32h7xx_hal_rcc.o
+                                                  dbg/stm32h7xx_hal.o
+SystemInit                                        dbg/system_stm32h7xx.o
+                                                  dbg/startup_stm32h743xx.o
+TAMP_STAMP_IRQHandler                             dbg/startup_stm32h743xx.o
+TIM15_IRQHandler                                  dbg/startup_stm32h743xx.o
+TIM16_IRQHandler                                  dbg/startup_stm32h743xx.o
+TIM17_IRQHandler                                  dbg/startup_stm32h743xx.o
+TIM1_BRK_IRQHandler                               dbg/startup_stm32h743xx.o
+TIM1_CC_IRQHandler                                dbg/startup_stm32h743xx.o
+TIM1_TRG_COM_IRQHandler                           dbg/startup_stm32h743xx.o
+TIM1_UP_IRQHandler                                dbg/startup_stm32h743xx.o
+TIM2_IRQHandler                                   dbg/startup_stm32h743xx.o
+TIM3_IRQHandler                                   dbg/startup_stm32h743xx.o
+TIM4_IRQHandler                                   dbg/startup_stm32h743xx.o
+TIM5_IRQHandler                                   dbg/startup_stm32h743xx.o
+TIM6_DAC_IRQHandler                               dbg/startup_stm32h743xx.o
+TIM7_IRQHandler                                   dbg/startup_stm32h743xx.o
+TIM8_BRK_TIM12_IRQHandler                         dbg/startup_stm32h743xx.o
+TIM8_CC_IRQHandler                                dbg/startup_stm32h743xx.o
+TIM8_TRG_COM_TIM14_IRQHandler                     dbg/startup_stm32h743xx.o
+TIM8_UP_TIM13_IRQHandler                          dbg/startup_stm32h743xx.o
+Table_ctor                                        dbg/table.o
+                                                  dbg/bsp.o
+Table_inst                                        dbg/table.o
+UART4_IRQHandler                                  dbg/startup_stm32h743xx.o
+UART5_IRQHandler                                  dbg/startup_stm32h743xx.o
+UART7_IRQHandler                                  dbg/startup_stm32h743xx.o
+UART8_IRQHandler                                  dbg/startup_stm32h743xx.o
+UARTPrescTable                                    dbg/stm32h7xx_hal_uart.o
+UART_AdvFeatureConfig                             dbg/stm32h7xx_hal_uart.o
+UART_CheckIdleState                               dbg/stm32h7xx_hal_uart.o
+UART_SetConfig                                    dbg/stm32h7xx_hal_uart.o
+UART_Start_Receive_DMA                            dbg/stm32h7xx_hal_uart.o
+UART_Start_Receive_IT                             dbg/stm32h7xx_hal_uart.o
+UART_WaitOnFlagUntilTimeout                       dbg/stm32h7xx_hal_uart.o
+USART1_IRQHandler                                 dbg/startup_stm32h743xx.o
+USART2_IRQHandler                                 dbg/startup_stm32h743xx.o
+USART3_IRQHandler                                 dbg/startup_stm32h743xx.o
+USART6_IRQHandler                                 dbg/startup_stm32h743xx.o
+UsageFault_Handler                                dbg/startup_stm32h743xx.o
+WAKEUP_PIN_IRQHandler                             dbg/startup_stm32h743xx.o
+WWDG_IRQHandler                                   dbg/startup_stm32h743xx.o
+__aeabi_idiv0                                     c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_dvmd_tls.o)
+__aeabi_ldiv0                                     c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_dvmd_tls.o)
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o)
+__aeabi_uldivmod                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o)
+                                                  dbg/stm32h7xx_hal_uart.o
+__bss_end__                                       dbg/startup_stm32h743xx.o
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+__bss_start__                                     dbg/startup_stm32h743xx.o
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+__call_exitprocs                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+__data_end__                                      dbg/startup_stm32h743xx.o
+__data_load                                       dbg/startup_stm32h743xx.o
+__data_start                                      dbg/startup_stm32h743xx.o
+__deregister_frame_info                           c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+__dso_handle                                      c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+__init_array_end                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+__init_array_start                                c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+__libc_fini_array                                 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+__libc_init_array                                 c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+                                                  dbg/startup_stm32h743xx.o
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+__preinit_array_end                               c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+__preinit_array_start                             c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+__register_frame_info                             c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crtbegin.o
+__sf_fake_stderr                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+__stack                                           c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+__stack_end__                                     dbg/startup_stm32h743xx.o
+__udivmoddi4                                      c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_udivmoddi4.o)
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp\libgcc.a(_aeabi_uldivmod.o)
+_exit                                             c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libnosys.a(_exit.o)
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+_fini                                             c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crti.o
+_global_impure_ptr                                c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+_impure_ptr                                       c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-impure.o)
+_init                                             c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+dp/softfp/crti.o
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-init.o)
+_mainCRTStartup                                   c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+_stack_init                                       c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+_start                                            c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+assert_failed                                     dbg/bsp.o
+                                                  dbg/port.o
+                                                  dbg/queue.o
+                                                  dbg/tasks.o
+                                                  dbg/startup_stm32h743xx.o
+atexit                                            c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+eTaskGetState                                     dbg/tasks.o
+exit                                              c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-exit.o)
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+g_pfnVectors                                      dbg/startup_stm32h743xx.o
+hardware_init_hook                                c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+main                                              dbg/main.o
+                                                  dbg/startup_stm32h743xx.o
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+memcpy                                            c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memcpy-stub.o)
+                                                  dbg/queue.o
+memset                                            c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp\libc_nano.a(lib_a-memset.o)
+                                                  dbg/tasks.o
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+pcQueueGetName                                    dbg/queue.o
+pcTaskGetName                                     dbg/tasks.o
+pvTaskIncrementMutexHeldCount                     dbg/tasks.o
+                                                  dbg/queue.o
+pxCurrentTCB                                      dbg/tasks.o
+                                                  dbg/port.o
+pxPortInitialiseStack                             dbg/port.o
+                                                  dbg/tasks.o
+software_init_hook                                dbg/startup_stm32h743xx.o
+                                                  c:/qp/qtools/gnu_arm-none-eabi/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+dp/softfp/crt0.o
+ulTaskGenericNotifyTake                           dbg/tasks.o
+ulTaskGenericNotifyValueClear                     dbg/tasks.o
+uwTick                                            dbg/stm32h7xx_hal.o
+uwTickFreq                                        dbg/stm32h7xx_hal.o
+uwTickPrio                                        dbg/stm32h7xx_hal.o
+                                                  dbg/stm32h7xx_hal_rcc.o
+uxListRemove                                      dbg/list.o
+                                                  dbg/tasks.o
+uxQueueGetQueueItemSize                           dbg/queue.o
+uxQueueGetQueueLength                             dbg/queue.o
+uxQueueMessagesWaiting                            dbg/queue.o
+uxQueueMessagesWaitingFromISR                     dbg/queue.o
+uxQueueSpacesAvailable                            dbg/queue.o
+uxTaskGetNumberOfTasks                            dbg/tasks.o
+                                                  dbg/queue.o
+uxTaskGetStackHighWaterMark                       dbg/tasks.o
+uxTaskPriorityGet                                 dbg/tasks.o
+uxTaskPriorityGetFromISR                          dbg/tasks.o
+uxTaskResetEventItemValue                         dbg/tasks.o
+uxTopUsedPriority                                 dbg/tasks.o
+vApplicationGetIdleTaskMemory                     dbg/bsp.o
+                                                  dbg/tasks.o
+vApplicationIdleHook                              dbg/bsp.o
+                                                  dbg/tasks.o
+vApplicationStackOverflowHook                     dbg/bsp.o
+                                                  dbg/tasks.o
+vApplicationTickHook                              dbg/bsp.o
+                                                  dbg/tasks.o
+vListInitialise                                   dbg/list.o
+                                                  dbg/queue.o
+                                                  dbg/tasks.o
+vListInitialiseItem                               dbg/list.o
+                                                  dbg/tasks.o
+vListInsert                                       dbg/list.o
+                                                  dbg/tasks.o
+vListInsertEnd                                    dbg/list.o
+                                                  dbg/tasks.o
+vPortEndScheduler                                 dbg/port.o
+                                                  dbg/tasks.o
+vPortEnterCritical                                dbg/port.o
+                                                  dbg/queue.o
+                                                  dbg/tasks.o
+                                                  dbg/qf_port.o
+                                                  dbg/qf_time.o
+                                                  dbg/qf_qeq.o
+                                                  dbg/qf_qact.o
+                                                  dbg/qf_ps.o
+                                                  dbg/qf_mem.o
+                                                  dbg/qf_dyn.o
+                                                  dbg/qf_defer.o
+                                                  dbg/qep_msm.o
+                                                  dbg/qep_hsm.o
+                                                  dbg/table.o
+                                                  dbg/philo.o
+                                                  dbg/bsp.o
+vPortExitCritical                                 dbg/port.o
+                                                  dbg/queue.o
+                                                  dbg/tasks.o
+                                                  dbg/qf_port.o
+                                                  dbg/qf_time.o
+                                                  dbg/qf_qeq.o
+                                                  dbg/qf_qact.o
+                                                  dbg/qf_ps.o
+                                                  dbg/qf_mem.o
+                                                  dbg/qf_dyn.o
+                                                  dbg/qf_defer.o
+                                                  dbg/qep_msm.o
+                                                  dbg/qep_hsm.o
+                                                  dbg/table.o
+                                                  dbg/philo.o
+vPortSetupTimerInterrupt                          dbg/port.o
+vPortValidateInterruptPriority                    dbg/port.o
+                                                  dbg/queue.o
+                                                  dbg/tasks.o
+vQueueAddToRegistry                               dbg/queue.o
+vQueueDelete                                      dbg/queue.o
+vQueueUnregisterQueue                             dbg/queue.o
+vTaskDelay                                        dbg/tasks.o
+vTaskDelete                                       dbg/tasks.o
+vTaskEndScheduler                                 dbg/tasks.o
+vTaskGenericNotifyGiveFromISR                     dbg/tasks.o
+vTaskInternalSetTimeOutState                      dbg/tasks.o
+                                                  dbg/queue.o
+vTaskMissedYield                                  dbg/tasks.o
+                                                  dbg/queue.o
+vTaskPlaceOnEventList                             dbg/tasks.o
+                                                  dbg/queue.o
+vTaskPlaceOnUnorderedEventList                    dbg/tasks.o
+vTaskPriorityDisinheritAfterTimeout               dbg/tasks.o
+                                                  dbg/queue.o
+vTaskPrioritySet                                  dbg/tasks.o
+vTaskRemoveFromUnorderedEventList                 dbg/tasks.o
+vTaskSetTimeOutState                              dbg/tasks.o
+vTaskStartScheduler                               dbg/tasks.o
+                                                  dbg/qf_port.o
+vTaskSuspendAll                                   dbg/tasks.o
+                                                  dbg/queue.o
+                                                  dbg/qf_ps.o
+                                                  dbg/bsp.o
+vTaskSwitchContext                                dbg/tasks.o
+                                                  dbg/port.o
+xPortStartScheduler                               dbg/port.o
+                                                  dbg/tasks.o
+xQueueCreateCountingSemaphoreStatic               dbg/queue.o
+xQueueCreateMutexStatic                           dbg/queue.o
+xQueueGenericCreateStatic                         dbg/queue.o
+                                                  dbg/qf_port.o
+xQueueGenericGetStaticBuffers                     dbg/queue.o
+xQueueGenericReset                                dbg/queue.o
+xQueueGenericSend                                 dbg/queue.o
+                                                  dbg/qf_port.o
+xQueueGenericSendFromISR                          dbg/queue.o
+                                                  dbg/qf_port.o
+xQueueGetMutexHolder                              dbg/queue.o
+xQueueGetMutexHolderFromISR                       dbg/queue.o
+xQueueGiveFromISR                                 dbg/queue.o
+xQueueGiveMutexRecursive                          dbg/queue.o
+xQueueIsQueueEmptyFromISR                         dbg/queue.o
+xQueueIsQueueFullFromISR                          dbg/queue.o
+xQueuePeek                                        dbg/queue.o
+xQueuePeekFromISR                                 dbg/queue.o
+xQueueReceive                                     dbg/queue.o
+                                                  dbg/qf_port.o
+xQueueReceiveFromISR                              dbg/queue.o
+xQueueRegistry                                    dbg/queue.o
+xQueueSemaphoreTake                               dbg/queue.o
+xQueueTakeMutexRecursive                          dbg/queue.o
+xTaskCatchUpTicks                                 dbg/tasks.o
+xTaskCheckForTimeOut                              dbg/tasks.o
+                                                  dbg/queue.o
+xTaskCreateStatic                                 dbg/tasks.o
+                                                  dbg/qf_port.o
+xTaskGenericNotify                                dbg/tasks.o
+xTaskGenericNotifyFromISR                         dbg/tasks.o
+xTaskGenericNotifyStateClear                      dbg/tasks.o
+xTaskGenericNotifyWait                            dbg/tasks.o
+xTaskGetCurrentTaskHandle                         dbg/tasks.o
+                                                  dbg/queue.o
+xTaskGetSchedulerState                            dbg/tasks.o
+                                                  dbg/queue.o
+xTaskGetStaticBuffers                             dbg/tasks.o
+xTaskGetTickCount                                 dbg/tasks.o
+xTaskGetTickCountFromISR                          dbg/tasks.o
+xTaskIncrementTick                                dbg/tasks.o
+                                                  dbg/port.o
+xTaskPriorityDisinherit                           dbg/tasks.o
+                                                  dbg/queue.o
+xTaskPriorityInherit                              dbg/tasks.o
+                                                  dbg/queue.o
+xTaskRemoveFromEventList                          dbg/tasks.o
+                                                  dbg/queue.o
+xTaskResumeAll                                    dbg/tasks.o
+                                                  dbg/queue.o
+                                                  dbg/qf_ps.o
+                                                  dbg/bsp.o
